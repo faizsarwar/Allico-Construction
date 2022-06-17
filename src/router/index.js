@@ -56,6 +56,16 @@ const routes = [
       path: '/contact',
       name: 'contact',
       component: () => import(/* webpackChunkName: "about" */ '../views/contact.vue')
+    },
+    {
+      path: '/tax-exemption',
+      name: 'tax-exemption',
+      component: () => import(/* webpackChunkName: "about" */ '../views/tax-exemption.vue')
+    },
+    {
+      path: '/shipping-information',
+      name: 'shipping-information',
+      component: () => import(/* webpackChunkName: "about" */ '../views/shipping-information.vue')
     }
    
 ]  

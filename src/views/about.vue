@@ -125,7 +125,7 @@
         <div class=" mt-5 mb-4">
         <div class="row mt-4 mb-4 ml-2 mr-2">
             <div class="col no-overflow" >
-            <div class="card cards collections"  :style="{ backgroundImage: 'url(' + require('@/assets/img/2.png') + ')' }">
+            <div class="card cards collections"  :style="{ backgroundImage: 'url(' + require('@/assets/img/5.jpg') + ')' }">
                 <div class="card-body no-overflow p-4 pt-5" >
                     <h2 class="card-title m-3" style="color: white;">Air & Energy</h2>
                     <p class="card-text m-4" ><strong style="color: white;">The Climate Managemnet System</strong></p>
@@ -134,7 +134,7 @@
             </div>
 
             <div class="col no-overflow" >
-            <div class="card cards collections"  :style="{ backgroundImage: 'url(' + require('@/assets/img/2.png') + ')' }">
+            <div class="card cards collections"  :style="{ backgroundImage: 'url(' + require('@/assets/img/6.jpg') + ')' }">
                 <div class="card-body no-overflow p-4 pt-5" >
                     <h2 class="card-title m-3" style="color: white;  font-weight:bolder;">Total Greenhouse Project</h2>
                     <p class="card-text m-4" style="color: white;"><strong style="color: white;">Complete Project Solution From A till Z</strong></p>

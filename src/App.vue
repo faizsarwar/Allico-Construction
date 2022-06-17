@@ -73,10 +73,12 @@
       </li> -->
       <li class="nav-item ml-3 mr-3 dropdown">
         <a class=" " style="color:#2490d1" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Contact
+          Customer Service
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
           <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/contact"> <strong>Contact</strong> </a>
+          <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/tax-exemption"> <strong>Tax Exemption</strong> </a>
+          <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/shipping-information"> <strong>Shipping Info</strong> </a>
           <!-- <a class="dropdown-item mb-4 ml-2 mr-2" href="/projects"><strong>Employees</strong> </a> -->
         </div>
       </li>
