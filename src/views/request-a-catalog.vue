@@ -1,13 +1,27 @@
 <template>
   <div class="home pt-4 pb-5">
+    
 
+    <h1 style="color:#2490d1; text-align: center;" class="p-4"><b> PRODUCT CATALOG </b></h1>
 
-    <section class="p-5">
-
-      <h2 class="font-weight-bold text-uppercase" style="color:#2490d1;">Contact Form </h2>
-
-
-
+    <sectdion>
+        <div class="row p-5">
+            <div class="col-8 text-left">         
+                <div class="row">
+                    <div class="col-6">
+              <img src="../assets/img/images.jpeg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
+                    </div>
+                    <div class="col-6">
+                <div>
+                    <h1 style="color:#2490d1; " ><b> Request a Printed Catalog </b></h1>
+                    <p class="mt-4">Our Product Catalogue comes loaded with tips, full color photos, and the most current pricing on our greenhouse structures, packages and components. Although most clients have likely received it by now, those who have not received it can click one of the links to the side to view online or request a printed catalog with the form below.</p>
+                    <!-- <h4><b class="mt-4">Here’s a look how to proceed with tax exempt status:</b></h4> -->
+                </div>
+                <hr>
+                <b>Fill out the form below and get your catalog in the mail.</b>
+                    </div>
+                </div>
+                <div class="row pl-5">
 
       <form class="p-5 "  @submit.prevent="submitForm">
 
@@ -17,10 +31,10 @@
           <div class="form-group mt-3 mb-3">
             <!-- <label for="formGroupExampleInput" class="form-label">Username</label> -->
             <p class="form-label ml-3" style="color:#2490d1;"> <b> Name </b></p> 
-            <div class="pr-3">
+            <div class="">
               <input
                 type="text"
-                class="form-control pr-3"
+                class="form-control"
                 id="formGroupExampleInput"
                 placeholder="Enter Your Name"
                 v-model="Name"
@@ -33,7 +47,7 @@
           <div class="form-group mt-3 mb-3">
             <!-- <label for="formGroupExampleInput" class="form-label">Username</label> -->
             <p class="form-label ml-3"  style="color:#2490d1;"> <b> Phone Number </b></p> 
-            <div class="pr-3">
+            <div class="">
               <input
                 type="text"
                 class="form-control "
@@ -55,7 +69,7 @@
           <div class="form-group mt-3 mb-3">
             <!-- <label for="formGroupExampleInput" class="form-label">Username</label> -->
             <p class="form-label ml-3" style="color:#2490d1;"> <b> Email </b></p> 
-            <div class="pr-3">
+            <div class="">
               <input
                 type="email"
                 class="form-control"
@@ -71,7 +85,7 @@
           <div class="form-group mt-3 mb-3">
             <!-- <label for="formGroupExampleInput" class="form-label">Username</label> -->
             <p class="form-label ml-3" style="color:#2490d1;"> <b> Company Name </b></p> 
-            <div class="pr-3">
+            <div class="">
               <input
                 type="text"
                 class="form-control"
@@ -86,25 +100,80 @@
  
         </div>
 
-        <div class="row mt-3 pl-5 text-left">
-            <div class="col-lg-12 pl-5 ml-5">
+        <div class="row">
+            <div class="col">
+                <p class="form-label ml-3" style="color:#2490d1;"> <b> City </b></p> 
+                <div class="">
+                <input
+                    type="text"
+                    class="form-control"
+                    id="formGroupExampleInput"
+                    placeholder="Enter Company Name"
+                    v-model="City"
+                />
+                </div>
+            </div>
+            <div class="col">
+                <p class="form-label" style="color:#2490d1;"> <strong> Application</strong></p> 
+                <select class="form-control" aria-label="Default select example" v-model="this.Application">
+                    <option value="Consumer">Cannabis Production</option>
+                    <option value="Retailer">Commercial Growing</option>
+                    <option value="Distributor">Growing Vegetables</option>
+                    <option value="Affiliate">Hydroponics</option>
+                    <option value="Referral Partner">Retail Center</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="row mt-3  text-left">
+            <div class="col-lg-12  ml-5">
             <p class="form-label ml-3" style="color:#2490d1;"> <b> Message </b></p> 
                 <div class="form-group">
-                    <textarea name="message" id="comments" required  rows="4" class="form-control" style="width:70%" placeholder="Your message..."></textarea>
+                    <textarea name="message" id="comments" required  rows="4" class="form-control" style="width:85%" placeholder="Your message..."></textarea>
                 </div>
             </div>
         </div>
     
 
 
-        <button type="submit" class="btn bt mt-5 pl-5 pr-5 pt-2 pb-2" style="background-color:#2490d1; color:white">Send</button>
+        <button type="submit" class="btn bt mt-5 ml-5 pl-5 pr-5 pt-2 pb-2" style="background-color:#2490d1; color:white">Send</button>
 
 
 
       </form>
+                </div>
+
+           </div>
+
+            <div class="col-4">
+              <div>
+                <h1 style="color:#2490d1; ">MAILING ADDRESS</h1>
+                <p>40 Londonderry Turnpike
+                  Hooksett, NH 03106</p>
+                <a href="" class="btn btn p-2 pl-3 pr-3" style="background-color:red; color: white"> Faqs</a>
+              </div>
+              
+
+            </div>
+        </div>
+    </sectdion>
+
+    <section >
+        <div class="ml-3 " style="border-radius:35px; background-color:red" >
+        <div class="row" >
+          <div class="col-lg text-left pl-5" >
+              <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 mt-3">
+                  <h1 class=" mb-5" style="color:white; font-weight:bolder;" > WOULD YOU LIKE TO KNOW MORE ABOUT AMMERLAAN CONSTRUCTION?</h1>
+                  <h4 class="mr-5  mt-4 text" style="color:white ;">WE LOOK FORWARD TO TELL YOU!</h4>
+              </div>
+            </div>
+            <div class="col-lg " style=" text-align: center; color: black;">
+              <img src="../assets/img/7.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
+            </div>
+        </div>
+        </div>
     </section>
 
-  
     <section class="p-5">
       <div class="p-5">
       <h2> <b style="color:#2490d1;">We are available 24/7.</b> Outside office hours,
@@ -117,19 +186,19 @@
         <div class=" mt-5 mb-4">
         <div class="row mt-4 mb-4 ml-2 mr-2">
             <div class="col no-overflow" >
-            <div class="card cards collections"  :style="{ backgroundImage: 'url(' + require('@/assets/img/1.jpg') + ')' }">
+            <div class="card cards collections"  :style="{ backgroundImage: 'url(' + require('@/assets/img/5.jpg') + ')' }">
                 <div class="card-body no-overflow p-4 pt-5" >
-                    <h2 class="card-title m-3" style="color: white;">Greenhouse Construction</h2>
-                    <p class="card-text m-4" ><strong style="color: white;">Discover The Possibilities Service We Offer</strong></p>
+                    <h2 class="card-title m-3" style="color: white;">Air & Energy</h2>
+                    <p class="card-text m-4" ><strong style="color: white;">The Climate Managemnet System</strong></p>
                 </div>
             </div>
             </div>
 
             <div class="col no-overflow" >
-            <div class="card cards collections"  :style="{ backgroundImage: 'url(' + require('@/assets/img/4.jpg') + ')' }">
+            <div class="card cards collections"  :style="{ backgroundImage: 'url(' + require('@/assets/img/6.jpg') + ')' }">
                 <div class="card-body no-overflow p-4 pt-5" >
-                    <h2 class="card-title m-3" style="color: white;  font-weight:bolder;">Climate</h2>
-                    <p class="card-text m-4" style="color: white;"><strong style="color: white;">The Best Climate For Youre Green House</strong></p>
+                    <h2 class="card-title m-3" style="color: white;  font-weight:bolder;">Total Greenhouse Project</h2>
+                    <p class="card-text m-4" style="color: white;"><strong style="color: white;">Complete Project Solution From A till Z</strong></p>
                 </div>
             </div>
             </div>
@@ -174,7 +243,7 @@
 // import explore_more_topics from '../components/explore-more-topics.vue'
 
 export default {
-  name: 'screening-projects',
+  name: 'aboutView',
   components: {
     // HelloWorld
     // blogs,

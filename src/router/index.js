@@ -66,6 +66,16 @@ const routes = [
       path: '/shipping-information',
       name: 'shipping-information',
       component: () => import(/* webpackChunkName: "about" */ '../views/shipping-information.vue')
+    },
+    {
+      path: '/construction-tips',
+      name: 'construction-tips',
+      component: () => import(/* webpackChunkName: "about" */ '../views/construction-tips.vue')
+    },
+    {
+      path: '/request-a-catalog',
+      name: 'request-a-catalog',
+      component: () => import(/* webpackChunkName: "about" */ '../views/request-a-catalog.vue')
     }
    
 ]  

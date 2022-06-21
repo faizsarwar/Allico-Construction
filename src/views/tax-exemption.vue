@@ -58,7 +58,7 @@
     </sectdion>
 
     <section >
-        <div class="ml-3 " style="border-radius:35px; background-color:red" >
+        <div class="ml-3 " style="border-radius:35px; background-color:blue" >
         <div class="row" >
           <div class="col-lg text-left pl-5" >
               <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 mt-3">
@@ -67,7 +67,7 @@
               </div>
             </div>
             <div class="col-lg " style=" text-align: center; color: black;">
-              <img src="../assets/img/1.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
+              <img src="../assets/img/2.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
             </div>
         </div>
         </div>
