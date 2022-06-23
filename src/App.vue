@@ -24,20 +24,20 @@
       </div> -->
 
 
-<nav class="navbar navbar-expand-lg navbar-light mt-0 mb-0" id="navbar_top" style="background-color:white; color:#2490d1">
+<nav class="navbar navbar-expand-lg bg-light p-0  navbar-light mt-0 mb-0" id="navbar_top" style="background-color:white; color:#2490d1">
             <a href="/">
             <img
-              src="./assets/img/logo1.png"
+              src="./assets/img/newlogo.jpeg"
               alt=""
               srcset=""
               style="height: 90px"
-              class="m-3 header-img mr-5"
+              class=" header-img mr-5 "
           /></a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+  <button class="navbar-toggler p-0" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  <div class="collapse navbar-collapse " id="navbarNavDropdown" style="color:#2490d1">
+  <div class="collapse navbar-collapse p-0 " id="navbarNavDropdown" style="color:#2490d1">
 
     <ul class="navbar-nav ml-auto">
 

@@ -5,20 +5,47 @@
     <section class="p-5 text-left">
         <h1 class="m-3 ml-4 mb-5" style="color:#2490d1;"> <b> CLIMATE</b> </h1>
         <div class="row pl-4 pr-4">
-            <h5 class="pl-4 pr-4">To maximise the yield and performance of your crops, creating the right greenhouse climate is vital. Together with our partner Cogas Climate Control we have all the expertise to advise you on all relevant aspects and to realise your needs. The optimal climate is determined by a variety of factors. By the right combination of it, you will significantly increase your efficiency. We analyse the climate data at your planned building location. In combination with the information from your crops, we offer you appropriate advice based on your unique situatio</h5>
+            <h5 class="pl-4 pr-4">We all know the importance of creating a greenhouse climate to maximize yield and
+performance. However, some people might not be aware that there are different factors whichdetermine your optimal growing conditions - such as temperature fluctuations in humidity
+levels for instance! If you let us help with this aspect by taking advantage our expertise when
+designing yours, we can ensure maximum yields while maintaining quality throughout every
+stage from seedling emerge through harvest time</h5>
         </div>
     </section>
 
   <section class="p-5 text-left">
     <div class="row">  
       <div class="col-6">
-        <h3 class="m-3 ml-4 mb-5" style="color:#2490d1;"> <b> GREENHOUSE CLIMATE: WE OPTIMISE THE PHOTOSYNTHESIS PROCESS</b> </h3>
+        <h3 class="m-3 ml-4 mb-5" style="color:#2490d1;"> <b> Optimizing the Photosynthesis Process:</b> </h3>
         <ul>
-          <li><b> Assimilation lighting </b> influence the climate in the greenhouse. Using artificial lighting or grow lights, such as LED and / or HPS, will extend the growing season. Because assimilation lighting influences the greenhouse climate, it is essential to configure the lighting correctly. Together with our partner Light4Food we install LED lighting as interlighting and toplighting. We can provide you with the necessary advice to make cultivation under artificial light succesfull.</li>
-          <li>We also install <b> heating systems </b>that are optimally adapted for your situation. Heating systems are available in a variety of configurations by using different fuels. In cooperation with you, we develop a sustainable heating system which create the best climate for your crops. Our climate partner for heating systems is: Climeco.</li>
-          <li>In addition to heating, <b> cooling systems </b>can also play a significant role in the greenhouse climate. Using the right cooling system will increase your efficiency by reaching the same quality of your crops.</li>
-          <li><b> Water </b>is a key factor for photosynthesis. Especially the water quality and quantity are very important. We design a custom made plan based on the cultivation location, crop, water sample and available facilities.</li>
-          <li>To ensure that all systems function properly, a relaible <b> electrical installation  </b>is required. We calculate and install all required cables and switch panels. We take local electronic specifications into account. All systems are connected and controlled by a <b> climate computer.</b> </li>
+          <li><b> LED lighting or assimilation lighting </b> an be a great choice for greenhouses because it is
+
+efficient and doesn't emit heat. With the right installation, LED lights will not only
+extend your growing season but also improve quality with less stress on plants thanks to
+its long-life span- 50 000 hours. LED lights which provide all day sunshine without heat
+generation so there'll be no worries about greenhouse leaks during those hot summer
+months when temperatures soar over 100 degrees Fahrenheit (38 Celsius). Plus,
+because it uses drastically less power than traditional HID lamps like 600Wmp reflectors
+used.</li>
+           <li>We also install <b> heating systems </b>that are optimally adapted for your situation. Heating
+system availability is tantamount to the variety of fuels available, and our team works
+with you in order develop a sustainable solution which will create the best climate
+possible around here.</li>
+          <li>The right <b>  cooling system </b> can have a significant impact on the quality and yield of your
+crops. A good way to keep yourself cool is by using an air conditioner, which will ensure that
+you are able reach top productivity while staying healthy throughout hot weather months.</li>
+          <li>It is crucial to have the right <b> water  </b> for photosynthesis. We work with you on designing a custom
+plan based off where your crops will be grown, what kind of sample we take from them and any
+other factors that might affect their health or production rate such as availability facilities. A
+significant role in growing healthy plants can only happen when considering all aspects including
+quality assurance measures since this affects plant growth drastically. </li>
+          <li>If you want your home or office to be environmentally friendly, then it needs an energy-efficient
+and <b> reliable electrical installation. </b> We can help with that! At our company we calculate all
+required cables as well switch panels so they're installed correctly by following local
+specifications for electronic devices in use within each building/room where needed. All systems
+are connected through climate computers which control them remotely from one central
+location - this ensures optimal performance throughout every part of whatever space has been
+equipped with appropriate hardware based on its geographical conditions.</li>
         </ul>
       </div>
       <div class="col-6">

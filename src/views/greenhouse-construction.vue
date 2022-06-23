@@ -5,7 +5,11 @@
       GREENHOUSE CONSTRUCTION
     </h1>
     <section class="p-5 text-left" style="background-color: white">
-      <p class="p-4 ml-5">Greenhouse construction: years of knowledge and experience - We have more than 75 years of experience and knowledge in greenhouse constructions. From standardised projects to tailor made designs. We support you during the entire process and take for example cost and the sustainability aspects of your product into consideration. So you will always achieve the optimum yield with your new greenhouse.</p>
+      <p class="p-4 ml-5">We have more than 75 years of experience and knowledge in greenhouse constructions. From
+standardized projects to tailor made designs, we support you during the entire process while
+taking cost considerations into account so that your new green house will always achieve an
+optimum yield. We're experts when it comes down designing custom-built structures for
+whatever purpose - whether its growing tomatoes or strawberries!</p>
     </section>
 
   <!-- Best seller slides -->
@@ -41,7 +45,9 @@
                         class="card-text ml-3 mr-3 mb-4 pl-3 pr-3 text"
                         style=" color: #466d1d"
                       >
-This is the standard type used in greenhouse horticulture. We design, produce and realise the Venlo greenhouse in various roof and bay dimensions and with different ventilation options. The possibilities are endless.                      </p>
+The Venlo greenhouse is a standard design for greenhouses used in horticulture. We produce
+and realize the various sizes of these greenhouses with different roof ventilation options,
+making it possible to create your own tailored solution to suit any need or taste.</p>
                       </div>
                       </div>
                       <!-- <a href='/course/' class="btn btn btn-success"  >Read More</a>
@@ -73,7 +79,12 @@ This is the standard type used in greenhouse horticulture. We design, produce an
                         class="card-text ml-3 mr-3 mb-4 pl-3 pr-3 text"
                         style=" color: #466d1d"
                       >
-This greenhouse is a unique concept of Ammerlaan Construction. Thanks to the special constrcution, it will reduce your energy consumption and increases the light penetration, with creating a pleasant climate in the greenhouse. The ZON greenhouse represents a gain in natural light of 5% compared to a VENLO greenhouse.  </p>
+The ZON Greenhouse represents a great innovation in greenhouses. It has been designed to
+maximize natural light and reduce energy consumption, while still providing an optimal
+condition for growing plants. The ZON Greenhouse is a unique concept of Allico Systems.
+Thanks to the special construction, it will reduce your energy consumption and increase light
+penetration with creating pleasant climate in greenhouses- 5% more natural sunlight than
+VENLO models.</p>
                       </div>
                       </div>
                       <!-- <a href='/course/' class="btn btn btn-success"  >Read More</a>
@@ -131,7 +142,12 @@ This greenhouse is a unique concept of Ammerlaan Construction. Thanks to the spe
                         class="card-text ml-3 mr-3 mb-4 pl-3 pr-3 text"
                         style=" color: #466d1d"
                       >
-The CABRIO greenhouse is characterised by its multifunctional usability and a ventilation capacity of almost 100%, by a fully opened roof. It is often used to harden off crops and to propagate or grow your plants for the production of vegetables and leafy greens.
+The CABRIO greenhouse is the perfect place to grow your own vegetables and leafy greens. It's
+characterized by its multifunctional usability, ventilation capacity of almost 100%, fully opened
+roof that allows plenty air flow through during cold weather months or when you want harden
+off mature crops for production in other areas like hot houses. With a fully opened roof, the
+CABRIO greenhouse provides exceptional ventilation and usability. It can be used for hardening
+off crops or growing vegetables in order to produce more food at home.
                       </p>
                       </div>
                       </div>
@@ -164,7 +180,9 @@ The CABRIO greenhouse is characterised by its multifunctional usability and a ve
                         class="card-text ml-3 mr-3 mb-4 pl-3 pr-3 text"
                         style=" color: #466d1d"
                       >
-The characteristics of this greenhouse are defined by its large volume. It has an efficient working area and is especially suitable for internal transport systems. Equipped with continuous ridge ventilation, the greenhouse can achieve a very high ventilation performance.         </p>
+The large volume of this greenhouse makes it an efficient working area. It has continuous ridge
+ventilation that allows for high performance when venturing inside the home, making them
+perfect to house internal transport systems.</p>
                       </div>
                       </div>
                       <!-- <a href='/course/' class="btn btn btn-success"  >Read More</a>
@@ -222,7 +240,12 @@ The characteristics of this greenhouse are defined by its large volume. It has a
                         class="card-text ml-3 mr-3 mb-4 pl-3 pr-3 text"
                         style=" color: #466d1d"
                       >
-This greenhouse guarantees high efficiency (low energy consumption) and an active climate that stimulates growth. The result is a higher production output with lower production costs under sterile and hygienic conditions. This reduces the disease pressure in the greenhouse and increases the shelf life of the crop.
+Greenhouses can be very profitable. This one is guaranteed to produce high yields and have an
+active climate that stimulates plant growth, which in turn reduces your workload while still
+being able consume less energy than before! Plus, you'll never need a chlorine tablet again
+because it's so clean inside these green walls - plus there are no more worries about disease or
+spoilage since everything gets sterile treatment before going into storage for long periods of
+time on our shelves near food items people buy every day without even thinking twice.
 
 
                       </p>
@@ -257,8 +280,12 @@ This greenhouse guarantees high efficiency (low energy consumption) and an activ
                         class="card-text ml-3 mr-3 mb-4 pl-3 pr-3 text"
                         style=" color: #466d1d"
                       >
-The greenhouse with a special roof system suitable for the use of laminated solar panels. We have developed a solar roof system for dual use, which has been approved by the major insurers. The proportion between the number of solar panels and the amount of standard roof glass in combination with various roof ventilation types can be chosen per project. The solar greenhouse can be completely customized for each application.
-
+We believe that every home should have access to green energy. That's why our company is
+developing a solar-powered greenhouse with custom roofs for different types of applications,
+so you can produce your own food or flowers even when the weather isn't perfect outside!  <br>
+The new design features an easy installation process and multiple ventilation options as well - it
+will work great no matter what climate where you live because this product has been designed
+specifically by experts who understand how important sustainability really is.
                       </p>
                       </div>
                       </div>

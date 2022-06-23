@@ -5,12 +5,20 @@
     <section class="p-5 text-left">
         <h1 class="m-3 ml-4 mb-5" style="color:#2490d1;"> <b> COMPLETE PROJECTS </b> </h1>
         <div class="row pl-4 pr-4">
-            <h4 class="pl-4 pr-4"><b> Greenhouse solutions: The best products  </b>- We suply the highest quality products in every facet belonging to a horticulture project. From greenhouses and screening installations to climate control, (including the Air & Energy concept) you can expect the very best standards. This also applies to all irrigation, lighting and electrical installations. Since we produce most of these products ourselves, we are self supporting and ensure an efficient and cost-saving process</h4>
+            <h4 class="pl-4 pr-4">The world's leading suppliers of high-quality greenhouses, screening installations and climate
+control products. Our self-supporting approach ensures that we provide efficient cost saving
+services to our clients in every facet belonging to a horticulture project from installation
+through maintenance free recycling processes for your old materials back into new designs.</h4>
         </div>
 
         <div class="row pl-4 pr-4 mt-5">
             <h2 class="pl-4" style="color:#2490d1;">A PROJECT THAT FITS YOUR NEEDS</h2>
-            <h4 class="pl-4 pr-4 mt-3">We can always provide the appropriate solution for your challenge. In some cases, the answer can be found with our standardised products. If your specific situation is more complex, we offer customised solutions. After analysing the climate data at your building location and respecting your cultivation, we provide you with the right advice. Thanks to the services of Ammerlaan Construction, a wide range of various projects have already been realised.</h4>
+            <h4 class="pl-4 pr-4 mt-3">We're always looking for ways to make your life easier and more comfortable. With our
+standardized products, you can get the right solution at a fair price without any hassle! If there
+is something about this process or equipment that does not seem clear to you in particular-
+don't worry because we offer customized solutions too - just let Allico Systems handle it from
+here on out: We have years of experience implementing successful green buildings with climate
+data tailored specifically towards each project's needs (and plenty more besides).</h4>
         </div>
     </section>
 

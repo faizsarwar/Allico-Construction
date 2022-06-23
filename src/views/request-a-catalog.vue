@@ -14,7 +14,11 @@
                     <div class="col-6">
                 <div>
                     <h1 style="color:#2490d1; " ><b> Request a Printed Catalog </b></h1>
-                    <p class="mt-4">Our Product Catalogue comes loaded with tips, full color photos, and the most current pricing on our greenhouse structures, packages and components. Although most clients have likely received it by now, those who have not received it can click one of the links to the side to view online or request a printed catalog with the form below.</p>
+                    <p class="mt-4">We've got your back! Our Product Catalogue is always up-to date with the most current pricing
+on our greenhouse structures, packages and components. If you need help receiving it or would
+like a printed copy of this guide, just click one link below for easy access online at any time. <br> <br> We know how important all information right at their fingertips having can be when they're
+busy working away in there so make sure to check out what's new from us today by clicking
+here!</p>
                     <!-- <h4><b class="mt-4">Here’s a look how to proceed with tax exempt status:</b></h4> -->
                 </div>
                 <hr>

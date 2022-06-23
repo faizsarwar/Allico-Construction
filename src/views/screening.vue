@@ -5,17 +5,31 @@
     <section class="p-5 text-left">
         <h1 class="m-3 ml-4 mb-5" style="color:#2490d1;"> <b> SCREENING </b> </h1>
         <div class="row pl-4 pr-4">
-            <h4 class="pl-4 pr-4"><b> Screen installations: increase the efficiency of your greenhouse  </b>- We supply screen installations with many advantages. For example, screens can be installed and used to regulate different climate parameters such as: The absolute moisture balans, sunlight radiation, the CO2 content and the temperature. Next to responding dynamically on seasonal changes, (summer and winter) there are a variety of options with climate screens.</h4>
+            <h4 class="pl-4 pr-4">We offer a wide range of options to suit your needs and climate. Screen installations can be
+installed for increased efficiency, such as regulating different parameters like moisture balance
+or CO2 content without affecting temperature levels in the greenhouse! Summer may not last
+forever but at least you have those beautiful plants all year-round thanks to our high-quality
+screens.</h4>
         </div>
 
         <div class="row pl-4 pr-4 mt-5">
             <h2 class="pl-4" style="color:#2490d1;">SCREENING INSTALLATIONS: A RANGE OF POSSIBILITIES</h2>
-            <h4 class="pl-4 mt-3" >We can supply various screen installations, which can be modified to suit your specifics. For example:</h4>
+            <h4 class="pl-4 mt-3" >We offer a wide range of services to meet your specific needs.</h4>
             <ul>
-                <li><b> Horizontal screens </b>- The most used screening system that can be installed in multiple layers. Ideal for saving energy, containing assimilation lighting, light distribution, reducing light intensity and solar reflection. Within this category there are a variety of options to suit your crops and the specific climatic conditions you require.</li>
-                <li><b> Gable screens </b>- For energy saving and containing or reflecting assimilation lighting.</li>
-                <li><b> Twin gable </b>- This system is used to separate the greenhouse in different compartments or to create different climate zones.</li>
-                <li><b> Insect netting </b>- Reduce disease pressure and keep out insects from entering the greenhouse. Keeping beneficial insects like bees and bumblebees in the greenhouse but preventing pests like thrips and aphids is very important.</li>
+                <li><b> Horizontal screens </b>Having a lighting system that can be adjusted to suit your needs and crop is crucial for getting
+the most out of them. The options within this category will help you save energy, contain
+assimilation lighting so it doesn't shine on other plants in an area instead just warming up soil
+but also reducing solar reflection which makes hot spots more comfortable during summer
+months when temperatures soar.</li>
+                <li><b> Gable screens </b>This is a perfect way to provide the right amount of light for your home. This will save energy
+and help keep you cozy all winter long.</li>
+                <li><b> Twin gable </b>The use of this system will allow you to separate the greenhouse into different compartments
+or create climates that are more specific.</li>
+                <li><b> Insect netting </b>Managing disease pressure and preventing bugs from entering your greenhouse is important
+for keeping healthy crops. You should keep beneficial insects like bees or bumblebees inside,
+but you don't want pests like thrips and aphids coming in too. <br> 
+Choosing the right cloth for your crop is important, because it will depend on seasonal climate
+conditions and type of cultivation. We can help you with this decision</li>
             </ul>
             <h4 class="pl-4 pr-4 mt-3">An important component of the screening installation is the type of cloth. We can advise you in choosing the right cloth type for your crop, based on the (seasonal) climate conditions, type of cultivation and your specific situation.
  </h4>

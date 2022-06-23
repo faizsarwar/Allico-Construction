@@ -9,21 +9,42 @@
             <div class="col-8 text-left">
                 <div>
                     <h1 style="color:#2490d1; " ><b> Policies and Conditions </b></h1>
-                    <p class="mt-4">We ship your orders by the most commons shipping methods: via Motor Freight, UPS, and Air Freight. We reserve the right to select the most reliable carriers from our warehouse; if you require special shipping instructions, please contact RGS. We normally ship by the most economical way unless otherwise instructed.</p>
+                    <p class="mt-4">We ship your orders with the most common shipping methods: via Motor Freight, UPS and Air
+freight. If you require special instructions for delivery, please contact us so we can find out
+what’s best suited to meet those needs! Our normal procedure is based on whether it's an
+economical way of delivering goods or not - unless otherwise instructed by our customer in
+advance of receiving their order. We generally use cheapest option available but always check
+before ordering as some clients may want certain services performed related specifically
+around tracking numbers etc.</p>
                     <!-- <h4><b class="mt-4">Here’s a look how to proceed with tax exempt status:</b></h4> -->
                 </div>
                 <hr>
                 <div class="pt-5 pb-5">
                     <h2 style="color:#2490d1; " ><b> Motor Freight Shipments </b></h2>
-                    <p>The original Bill of Lading attached to our invoice indicated that material shipped has now become your property and is an acknowledgement by the transportation company of the receipt of the property in good condition. Safe delivery of this shipment is now the responsibility of the carrier. Please examine your shipment carefully before signing the freight bill. We will be glad to assist in tracing or recovery of lost merchandise.</p>
+                    <p>The shipment you just received is a highly valuable asset and we will be glad to help in any way
+that we can. Please examine your package carefully before signing for it so there are no
+surprises later on down the road!.</p>
                     <!-- <a href="" class="btn btn p-2 pl-3 pr-3" style="background-color:red; color: white"> Create Account</a> -->
                 </div>
                 <hr>
                 <div class="pt-5 pb-5">
                     <h2 style="color:#2490d1; " ><b> Motor Freight – Damage or Shortage </b></h2>
-                    <p>If any damage is noted, or if the number of pieces received does not agree with the number on the Bill of Lading, DO NOT accept the shipment without shortage or damage notated on your freight bill and signed by the carrier’s agent (driver). Failure to do so may jeopardize your recovery. If any concealed damage or shortage is discovered when unpacking, leave the material and the packing as is and notify the carrier for concealed damage or shortage inspection. Consult the carrier for necessary claim papers and disposition of damaged articles. When checking shipments, compare what was received with packing list or invoice. If there is a shortage due to our counting, YOU MUST CONTACT US WITHIN FIVE DAYS and provide us with the details.
-                    <br>  <br>
-                    Claims with motor freight companies must be made promptly. The freight company will not consider a claim unless presented within nine months from date of shipment. The carrier’s agent will assist you in making that claim. Claims for loss or damaged material and transportation charges, therefore, MUST NOT be deducted from the invoice, nor payment of invoices withheld awaiting adjustment of such claims, since it is the function of the carrier to guarantee safe delivery.
+                    <p>Your first priority after a shipment is to inspect the box for any damage and make sure you
+match up what's on your bill with what was delivered. If there are discrepancies, don't take it
+without making some calls! You might just discover hidden shortages or other problems that
+could jeopardize recovery efforts in favor of sitting them out entirely by accepting shipments
+containing obvious issues instead - like undeliverable due at ports where none were requested
+because no one can find them when they arrive (or even before). <br> <br>
+It’s important not only identify whether something has been lost during transit but also report
+anything discovered immediately so as much peace-of mind possible will come along side
+payment. Be sure to consult with your carrier about the necessary claim papers and disposition
+of damaged articles when checking shipments. If you notice anything wrong, like an absence on
+their packing list or invoice (or even if it's just not there!), contact us WITHIN FIVE DAYS so we
+can resolve this for you! <br> <br>
+When a shipper makes an insurance claim, the freight company will not consider it unless
+submitted within nine months from date of shipment. The carrier's agent can help with this
+process and ensure that all documentation is properly accounted for in order to protect their
+interests as well- which means you should never have any trouble getting paid!
 
 
 </p>
@@ -32,20 +53,31 @@
                 <hr>
                 <div class="pt-5 pb-5">
                     <h2 style="color:#2490d1; " ><b> United Parcel Service </b></h2>
-                    <p>We generally recommend UPS deliveries as the best method for shipping, providing certain requirements can be met. We cannot ship all materials via UPS. There is a maximum weight per package of 150 pounds, a maximum size length of 108” and a maximum size of 130” in length and girth combined. All UPS shipments require a signature, a street address and a zip code. Please do not ask us to ship UPS unless these requirements are met</p>
+                    <p>Customers who need to ship their items are generally recommended for UPS delivery. There
+are certain requirements that must be met in order for this service, such as meeting weight and
+size restrictions per package at 150 pounds max with 108" length or 130". All orders requiringshipping will require signature upon arrival so please make sure you can deliver where
+required!</p>
                     <!-- <a href="" class="btn btn p-2 pl-3 pr-3" style="background-color:red; color: white"> Submit Docs</a> -->
                 </div>
                 <hr>
                 <div class="pt-5 pb-5">
                     <h2 style="color:#2490d1; " ><b> UPS-Damaged Shipments</b></h2>
-                    <p>If you see that a shipment is damaged upon receipt from UPS, then refuse shipment. UPS will return the shipment to us, and we will file the claim and send a new shipment to you. If after opening the package you find concealed damage, call us at once. We will instruct UPS to pick up the package and return it to us for a claim. We will reship your order. </p>
+                    <p>If you receive a shipment that has been damaged upon receipt from UPS, refuse to accept it
+and report the issue. We will file an insurance claim for goods returned with concealed damage
+so there's no need for further action on your end unless something else happens like
+discovering hidden damages when opening up packages received via standard shipping
+methods such as USPS or FedEx Ground Services after they've arrived at their destination
+location (which we recommend not doing). </p>
                     <!-- <a href="" class="btn btn p-2 pl-3 pr-3" style="background-color:red; color: white"> Submit Docs</a> -->
                 </div>
                 <hr>
                 <div class="pt-5 pb-5">
                     <h2 style="color:#2490d1; " ><b> Payments </b></h2>
                     <!-- <b>Place your order!</b> -->
-                    <p>Payments made with VISA or MasterCard are requested to be a minimum order of $50 and payment must be made at time of purchase.</p>
+                    <p>We require that you purchase a minimum of $50 worth of products before we process your
+order. Please make all payments through the computerized check system at time-of-purchase
+or contact one our sales representatives for more information about available financing
+options.</p>
                     <!-- <a href="" class="btn btn p-2 pl-3 pr-3" style="background-color:red; color: white"> Submit Docs</a> -->
                 </div>
                 <hr>
@@ -59,7 +91,14 @@
                 <div class="pt-5 pb-5">
                     <h2 style="color:#2490d1; " ><b> Terms </b></h2>
                     <!-- <b>Place your order!</b> -->
-                    <p>Terms are 2% 10 days, Net 30 days unless otherwise stated. A 1% per month service charge is added on all overdue accounts. This is an 12% annual charge. Terms are COD where credit has not been established. Returned checks will be assessed a $20 fee.</p>
+                    <p>We offer a wide range of banking services that are sure to meet your needs. From traditional
+checking accounts, loans and mortgages through auto financing with our partners at Enterprise
+Rental Insurance Agency - we've got you covered! We also provide merchant credit cards as
+well as personal ones just in case there is something special going on such has life insurance
+policies or home equity lines lending programs for example Our 2% rate applies when pay us
+back within 10 days after receiving the account statement; otherwise, it's 30 Days net without
+any fees added onto what already exists (an annual charge). If checks aren't honored then fees
+will apply accordingly: $20 per check returned.</p>
                     <!-- <a href="" class="btn btn p-2 pl-3 pr-3" style="background-color:red; color: white"> Submit Docs</a> -->
                 </div>
 
@@ -67,21 +106,29 @@
                 <div class="pt-5 pb-5">
                     <h2 style="color:#2490d1; " ><b> Minimum Order </b></h2>
                     <!-- <b>Place your order!</b> -->
-                    <p>On orders shipped under $25, we will add a $5 small order upcharge in addition to shipping or delivery charges.</p>
+                    <p>On orders shipped under $25, we will add a $5 small order upcharge in addition to shipping or
+delivery charges.</p>
                     <!-- <a href="" class="btn btn p-2 pl-3 pr-3" style="background-color:red; color: white"> Submit Docs</a> -->
                 </div>
                                 <hr>
                 <div class="pt-5 pb-5">
                     <h2 style="color:#2490d1; " ><b> Returns </b></h2>
                     <!-- <b>Place your order!</b> -->
-                    <p>No merchandise may be returned without authorization from our office. Merchandise must be returned within 60 days of purchase. Invoice number and date of purchase is required for any/all returns. A restocking charge of 20% is charged on all returns unless merchandise is defective. ITEMS THAT ARE SPECIAL ORDERED, MADE TO CUSTOMER SPECIFICATIONS, NON-INVENTORY OR NON-STOCK CANNOT BE RETURNED FOR ANY CREDIT DUE TO THEIR SPECIAL NATURE.</p>
+                    <p>No merchandise may be returned without a specific authorization from our office. You have 60
+days to return any/all items that are not defective and with the exception of specials orders,made-to customer specifications or non-inventory stocked products cannot receive credit for
+their special nature because they do not meet this criterion as defined by us <br> <br>
+This means if you bought something custom designed specifically just for your needs then
+unfortunately it's too late!</p>
                     <!-- <a href="" class="btn btn p-2 pl-3 pr-3" style="background-color:red; color: white"> Submit Docs</a> -->
                 </div>
                                 <hr>
                 <div class="pt-5 pb-5">
                     <h2 style="color:#2490d1; " ><b> Sales Tax </b></h2>
                     <!-- <b>Place your order!</b> -->
-                    <p>Appropriate state tax will be charged on all items unless we have your tax exempt number. In compliance with the law, we must charge the tax on all items which the state designates as taxable even though you have provided us with your sales tax number.</p>
+                    <p>The state tax on all items is required unless you provide us with a sales-tax exempt number. In
+order to continue providing this service and comply in accordance with law, we must charge the
+appropriate amount of taxation for each item regardless of if it has been indicated as taxable by
+your particular jurisdiction's rules & regulations.</p>
                     <!-- <a href="" class="btn btn p-2 pl-3 pr-3" style="background-color:red; color: white"> Submit Docs</a> -->
                 </div>
 
@@ -89,7 +136,8 @@
                 <div class="pt-5 pb-5">
                     <h2 style="color:#2490d1; " ><b> Recommendations </b></h2>
                     <!-- <b>Place your order!</b> -->
-                    <p>We are not responsible for damage or failure due to recommendations provided by Rimol Greenhouse Systems or our vendors.</p>
+                    <p>Allico Systems is not responsible for any damage or failure caused by recommendations
+provided in our catalogs.</p>
                     <!-- <a href="" class="btn btn p-2 pl-3 pr-3" style="background-color:red; color: white"> Submit Docs</a> -->
                 </div>
 
@@ -97,7 +145,13 @@
                 <div class="pt-5 pb-5">
                     <h2 style="color:#2490d1; " ><b> Notice to the Purchaser </b></h2>
                     <!-- <b>Place your order!</b> -->
-                    <p>The following is made in lieu of all warranties expressed or implied. Seller’s and manufacturer’s only obligation shall be to replace such quantity of the product proved to be defective. Neither seller nor manufacturer shall be liable for any injury, loss or damage, direct or consequential, arising out of the use or the inability to use the product. Before using, user shall determine the suitability of the product for his intended use, and user assumes all risk and liability whatsoever in connection therewith. The foregoing may not be changed except by an agreement signed by officers of seller and manufacturer.</p>
+                    <p>Seller and manufacturer assume no responsibility for injury or loss arising from the use of this
+product. User is advised to determine suitability before using, noting that neither seller nor
+producer will be liable if misuse occurs in conjunction therewith <br> <br>
+The following warranty applies: Seller/manufacturer will replace any quantity found defective
+upon purchase; however, they do not assume liability beyond what is outlined above-you’re
+responsible yourself when it comes down accountability during improper handling. The seller's
+and manufacturer’s rights to change this contract are limited.</p>
                     <!-- <a href="" class="btn btn p-2 pl-3 pr-3" style="background-color:red; color: white"> Submit Docs</a> -->
                 </div>
             </div>
