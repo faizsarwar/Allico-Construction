@@ -46,7 +46,7 @@
         </a>
 
            <h3 class="m-3 mt-5 mb-5" style="color:#2490d1;"> <b>SUSTAINABILITY: EYE FOR THE ENVIRONMENT</b> </h3>
-        <p>Sustainability is a very important item for Ammerlaan Construction. Because of that, we have set up our own production and processes on a sustainable manner as well. A perfect example is our Air & Energy system, which achieve significant energy savings in the greenhouse. Besides, our delivered end products contribute to the achievement of Sustainable Development Goals, prepared by the United Nations.</p>
+        <p>Sustainability is a very important item for Allico Construction. Because of that, we have set up our own production and processes on a sustainable manner as well. A perfect example is our Air & Energy system, which achieve significant energy savings in the greenhouse. Besides, our delivered end products contribute to the achievement of Sustainable Development Goals, prepared by the United Nations.</p>
      
       </div>
     </div>

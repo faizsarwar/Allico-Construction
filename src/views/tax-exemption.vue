@@ -9,7 +9,7 @@
             <div class="col-8 text-left">
                 <div>
                     <h1 style="color:#2490d1; " ><b> Information for Customers With Tax Exempt Status </b></h1>
-                    <p class="mt-4">At Rimol Greenhouse Systems, we work with all kinds of clients with tax exempt status, from educational facilities to non-profits, and more. We work to make the tax exempt ordering process as easy as possible, and we offer a simple way to complete your order correctly and get you on the way to growing in your Rimol greenhouse.</p>
+                    <p class="mt-4">At Allico Greenhouse Systems, we work with all kinds of clients with tax exempt status, from educational facilities to non-profits, and more. We work to make the tax exempt ordering process as easy as possible, and we offer a simple way to complete your order correctly and get you on the way to growing in your Allico greenhouse.</p>
                     <h4><b class="mt-4">Here’s a look how to proceed with tax exempt status:</b></h4>
                 </div>
                 <hr>
@@ -62,7 +62,7 @@
         <div class="row" >
           <div class="col-lg text-left pl-5" >
               <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 mt-3">
-                  <h1 class=" mb-5" style="color:white; font-weight:bolder;" > WOULD YOU LIKE TO KNOW MORE ABOUT AMMERLAAN CONSTRUCTION?</h1>
+                  <h1 class=" mb-5" style="color:white; font-weight:bolder;" > WOULD YOU LIKE TO KNOW MORE ABOUT Allico CONSTRUCTION?</h1>
                   <h4 class="mr-5  mt-4 text" style="color:white ;">WE LOOK FORWARD TO TELL YOU!</h4>
               </div>
             </div>

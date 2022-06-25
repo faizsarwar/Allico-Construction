@@ -15,7 +15,7 @@
                 <div class="mt-5">
                 <h1 style=" color:#2490d1;">MEMBER OF DUTCH GREENHOUSE DELTA</h1>
              
-                <b class="pt-4 ">Ammerlaan Construction is member of Dutch Greenhouse Delta. (DGD) The DGD foundation aims to promote the Dutch horticultural sector worldwide. We focus on complex, large-scale projects concerning food and floriculture issues in growing megacities. With a strong, unambiguous sound, we enable growth for the sector.</b>
+                <b class="pt-4 ">Allico Construction is member of Dutch Greenhouse Delta. (DGD) The DGD foundation aims to promote the Dutch horticultural sector worldwide. We focus on complex, large-scale projects concerning food and floriculture issues in growing megacities. With a strong, unambiguous sound, we enable growth for the sector.</b>
 
                 </div>
 
@@ -42,7 +42,7 @@
             <div class="col-6 pl-5 text-left">
                 <h1 style="color:#2490d1;">MEMBER OF GLITCH</h1>
              
-                <b class="pt-4 ">Ammerlaan Construction is member of the GLITCH project. Together with other partners, the GLITCH project focuses on the development of innovative energy efficient and climate neutral cultivation techniques in the greenhouse horticulture sector. </b>
+                <b class="pt-4 ">Allico Construction is member of the GLITCH project. Together with other partners, the GLITCH project focuses on the development of innovative energy efficient and climate neutral cultivation techniques in the greenhouse horticulture sector. </b>
 
             </div>
             <div class="col-6 text-left">

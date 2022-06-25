@@ -15,7 +15,7 @@
         <div class="row pl-4 pr-4">
             <div class="col-8 text-left">
                 <!-- <h1 style="color:#2490d1;">BIG DUTCHMAN</h1> -->
-                <p class="pt-4"><b> Active for 75 years </b> - Since our foundation in 1948 under the name Maurice Kassenbouw we have experienced immense development. Over the years, we have evolved from a regional greenhouse builder into a company that occupies a leading position in the horticultural sector. Since 1988 we have start up the export devision under the name Ammerlaan Construction. Built on years of experience, we can deliver you perfectly customized total projects. We fulfil your requirements, with a priority on the indoor and outdoor climate. Thanks to this focus, we offer your company and your performance the optimal opportunities to grow.</p>
+                <p class="pt-4"><b> Active for 75 years </b> - Since our foundation in 1948 under the name Maurice Kassenbouw we have experienced immense development. Over the years, we have evolved from a regional greenhouse builder into a company that occupies a leading position in the horticultural sector. Since 1988 we have start up the export devision under the name Allico Construction. Built on years of experience, we can deliver you perfectly customized total projects. We fulfil your requirements, with a priority on the indoor and outdoor climate. Thanks to this focus, we offer your company and your performance the optimal opportunities to grow.</p>
                 <br>
                 <p class=" ">
                     Over time, the demand for horticultural products has increased significantly. We have responded by automating our own steel production activities. Welding robots, plasma and laser cutters, machine saws and transport cranes help us to deliver customised projects as quickly as possible.
@@ -26,7 +26,7 @@
                 </p>
                 <br>
                 <p class="">
-                    Maurice kassenbouw - Ammerlaan Construction is since 2020 co-owner of Cogas Climate Control, a service-oriented all-round installation company in the horticulture sector. Together with Cogas we work for customers throughout Europe on horticultural projects, from construction to the complete design. 
+                    Maurice kassenbouw - Allico Construction is since 2020 co-owner of Cogas Climate Control, a service-oriented all-round installation company in the horticulture sector. Together with Cogas we work for customers throughout Europe on horticultural projects, from construction to the complete design. 
                 </p>
                 <br>
                 <p class=" ">
@@ -46,7 +46,7 @@
         <div class="row pl-4 pr-4">
             <div class="col-8 text-left">
                 <h1 style="color:#2490d1;">BIG DUTCHMAN</h1>
-                <p class="pt-4">Ammerlaan and Big Dutchman – Our German partner Big Dutchman designs and distributes innovative feeding systems and housing equipment for modern pig and poultry production as well as insect farming with around 3,400 employees. A global dealer network and the clever organization of the company have established a highly-efficient logistics system in all applicable markets. In more than 100 countries around the world, Big Dutchman products help produce food that is rich in protein in a profitable manner. With a turnover of EUR 985 million (2020), the family-owned company headquartered in Vechta, Lower Saxony, is considered the industry’s market leader.</p>
+                <p class="pt-4">Allico and Big Dutchman – Our German partner Big Dutchman designs and distributes innovative feeding systems and housing equipment for modern pig and poultry production as well as insect farming with around 3,400 employees. A global dealer network and the clever organization of the company have established a highly-efficient logistics system in all applicable markets. In more than 100 countries around the world, Big Dutchman products help produce food that is rich in protein in a profitable manner. With a turnover of EUR 985 million (2020), the family-owned company headquartered in Vechta, Lower Saxony, is considered the industry’s market leader.</p>
             </div>
             <div class="col-4 text-right">
                 <!-- <img src="../assets/img/logo1.png" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:50%; ">       -->
@@ -62,7 +62,7 @@
         <div class="row pl-4 pr-4">
             <div class="col-6 text-left">
                 <h1 style="color:#2490d1;">GREAT VARIETY OF CUSTOMERS</h1>
-                <p class="pt-4">Our customer base is diverse. Ammerlaan Construction develop suitable solutions for every customer according your specific situation. We are active in the following sectors:</p>
+                <p class="pt-4">Our customer base is diverse. Allico Construction develop suitable solutions for every customer according your specific situation. We are active in the following sectors:</p>
                 <ul>
                     <li class="m-0 p-0">Vegetables</li>
                     <li class="m-0 p-0">Leafy Greens</li>
@@ -76,8 +76,8 @@
                 </ul>
             </div>
             <div class="col-6 text-left">
-                <h1 style="color:#2490d1;">AMMERLAAN CONSTRUCTION: INTERNATIONALLY ORIENTED</h1>
-                <p class="pt-4">Ammerlaan Construction was founded in 1988 as the export department of Maurice Kassenbouw and focuses on customised, international projects. Both Maurice Kassenbouw and Ammerlaan Construction are located in the same premises and operated by the same team. With our export department, Ammerlaan Construction we can offer the highest level of quality and service for our international customers and anticipate on the growing demand from the horticultural sector worldwide.</p>
+                <h1 style="color:#2490d1;">Allico CONSTRUCTION: INTERNATIONALLY ORIENTED</h1>
+                <p class="pt-4">Allico Construction was founded in 1988 as the export department of Maurice Kassenbouw and focuses on customised, international projects. Both Maurice Kassenbouw and Allico Construction are located in the same premises and operated by the same team. With our export department, Allico Construction we can offer the highest level of quality and service for our international customers and anticipate on the growing demand from the horticultural sector worldwide.</p>
             </div>
         </div>
 
@@ -88,7 +88,7 @@
         <div class="row pl-4 pr-4">
             <div class="col-6 text-left">
                 <h1 style="color:#2490d1;">SOCIALLY INVOLVED</h1>
-                <p class="pt-4">At Ammerlaan Construction we consider it important to contribute to the society. For this reason, we support various local (sport) associations and initiatives. We also offer our employees sport, wellness and health care possibilities.</p>
+                <p class="pt-4">At Allico Construction we consider it important to contribute to the society. For this reason, we support various local (sport) associations and initiatives. We also offer our employees sport, wellness and health care possibilities.</p>
             </div>
             <div class="col-6 text-right">
                 <img src="../assets/img/logo1.png" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:50%; ">      
@@ -102,7 +102,7 @@
         <div class="row" >
           <div class="col-lg text-left pl-5" >
               <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 mt-3">
-                  <h1 class=" mb-5" style="color:white; font-weight:bolder;" > WOULD YOU LIKE TO KNOW MORE ABOUT AMMERLAAN CONSTRUCTION?</h1>
+                  <h1 class=" mb-5" style="color:white; font-weight:bolder;" > WOULD YOU LIKE TO KNOW MORE ABOUT Allico CONSTRUCTION?</h1>
                   <h4 class="mr-5  mt-4 text" style="color:white ;">WE LOOK FORWARD TO TELL YOU!</h4>
               </div>
             </div>
