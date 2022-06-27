@@ -61,7 +61,7 @@
                 class="form-control"
                 id="formGroupExampleInput"
                 placeholder="Enter email"
-                v-model="email"
+                v-model="Email"
               />
             </div>
           </div>
@@ -90,7 +90,7 @@
             <div class="col-lg-12 pl-5 ml-5">
             <p class="form-label ml-3" style="color:#2490d1;"> <b> Message </b></p> 
                 <div class="form-group">
-                    <textarea name="message" id="comments" required  rows="4" class="form-control" style="width:70%" placeholder="Your message..."></textarea>
+                    <textarea name="message" id="comments" required  rows="4" class="form-control" v-model="Message" style="width:70%" placeholder="Your message..."></textarea>
                 </div>
             </div>
         </div>
@@ -164,27 +164,60 @@
 </template>
 
 <script>
-
-// import HelloWorld from '@/components/HelloWorld.vue'
-// import HelloWorld from '@/components/blogs.vue'
-// import best_seller_slides from '../components/best-seller-slides.vue'
-// import testemonials from '../components/testemonials.vue'
-// import Faqs from '../components/Faqs.vue'
-// import compare_course from '../components/compare-course.vue'
-// import explore_more_topics from '../components/explore-more-topics.vue'
-
+import axios from "axios";
 export default {
-  name: 'screening-projects',
-  components: {
-    // HelloWorld
-    // blogs,
-    // testemonials,
-    // compare_course,
-    // explore_more_topics,
-    // Faqs,
-    // best_seller_slides
-  }
-}
+  name: "SignUp",
+  data() {
+    return {
+      Name: "",
+      PhoneNumber:"",
+      CompanyName: "",
+      Message: "",
+      Email:"",
+      errors: [],
+    };
+  },
+  methods: {
+    submitForm() {
+      this.errors = [];
+      if (!this.errors.length) {
+        let approved;
+        if (this.account_type== 'Consumer'){
+          approved = true
+        }else{
+          approved = false
+        }
+        const formData = {
+          Name: this.Name,
+          PhoneNumber: this.PhoneNumber,
+          CompanyName: this.CompanyName,
+          Message: this.Message,
+          Email : this.Email
+        };
+        console.log(formData,approved)
+        axios
+          .post("/api/v1/ContactForm/", formData)
+          .then((response) => {
+            console.log(response)
+            this.$router.push("/");
+          })
+          .catch((error) => {
+            if (error.response) {
+              for (const property in error.response.data) {
+                this.errors.push(
+                  `${property}: ${error.response.data[property]}`
+                );
+              }
+              console.log(JSON.stringify(error.response.data));
+            } else if (error.message) {
+              this.errors.push("Something went wrong. Please try again");
+              console.log(JSON.stringify(error));
+            }
+          });
+      }
+    },
+  },
+};
 </script>
 
 <style scoped>
