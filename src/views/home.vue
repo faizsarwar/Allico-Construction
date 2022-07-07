@@ -41,9 +41,9 @@
           <div class="ml-5 mr-5 p-5 ">
             <div class="pr-5 pt-5">      
                       <h1 class="mr-5 text-center" style="color:#2490d1; font-weight:bolder;" > WELCOME TO ALLICO SYSTEMS CONSTRUCTION</h1>
-              <p class="mr-5  mt-4 text" style="font-weight:bolder;">We realise world wide complete horticultural projects. The combination of our services and products ensures us, to offer you a complete package. </p>
-              <p class="mr-5  mt-4 text" style="font-weight:bolder;">Please contact us for more information. </p>
-              <p class="mr-5  mt-4 text" style="font-weight:bolder;">We look forward to tell you more about our organisation, products, projects and possibilities.</p>
+              <p class="mr-5  mt-4 text-center" style="font-weight:bold;">We realise world wide complete horticultural projects. The combination of our services and products ensures us, to offer you a complete package.
+              <br> Please contact us for more information. <br>
+We look forward to tell you more about our organisation, products, projects and possibilities.</p>
             </div>
           </div>
         </div>
@@ -57,11 +57,17 @@
           <div class="col-lg text-left" >
               <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 mt-5">
                   <h1 class=" mb-5 mt-5" style="color:white; font-weight:bolder;" > WELCOME TO ALLICO SYSTEMS CONSTRUCTION</h1>
-                  <h4 class="mr-5  mt-4 text" style="color:white ;">DISCOVER THE POSSIBILITIES AND SERVICES WE OFFER</h4>
+                  <h3 class="mr-5 mt-4 text" style="color:white ;">DISCOVER THE POSSIBILITIES AND SERVICES WE OFFER</h3>
+
+                            <div class="text-center" >
+                  <a href="/contact" class="btn bt mt-5 ml-5 pl-5 pr-5 pt-2 pb-2" style="background-color:#2490d1;border-radius:35px; color:white">Contact Us</a>
+                    </div>
+
+
               </div>
             </div>
             <div class="col-lg " style=" text-align: center; color: black;">
-              <img src="../assets/img/5.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
+              <img src="../assets/img/15.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
             </div>
         </div>
         </div>

@@ -13,17 +13,20 @@
 
 
     <section >
-        <div class="ml-3" style="border-radius:35px; " >
+        <div class="ml-3" style="border-radius:35px; background-color: #2490d1" >
         <div class="row" >
-          <div class="col-lg text-left pl-5" >
-              <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 mt-3">
-                  <h1 class=" mb-5" style="color:#2490d1; font-weight:bolder;" >IS YOUR DREAM JOB NOT LISTED?</h1>
-                  <h4 class="mr-5  mt-4 text" style="color:#2490d1;">PLEASE FEEL FREE TO CONTACT US ABOUT CAREER OPPORTUNITIES AT OUR COMPANY</h4>
+          <div class="col-lg text-left pl-5 pt-5 pb-5" >
+              <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 text-center mt-3">
+                  <h1 class=" mb-5" style="color:white; font-weight:bolder;" >IS YOUR DREAM JOB NOT LISTED?</h1>
+                  <h4 class="mr-5  mt-4 text" style="color:white;">PLEASE FEEL FREE TO CONTACT US ABOUT CAREER OPPORTUNITIES AT OUR COMPANY</h4>
+                  <div class="text-center" >
+                  <a href="/contact" class="btn bt mt-5 ml-5 pl-5 pr-5 pt-2 pb-2" style="background-color:red;border-radius:35px; color:white">Contact Us</a>
+                    </div>
               </div>
             </div>
-            <div class="col-lg " style=" text-align: center; color: #2490d1;">
+            <!-- <div class="col-lg " style=" text-align: center; color: #2490d1;">
               <img src="../assets/img/1.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
-            </div>
+            </div> -->
         </div>
         </div>
     </section>

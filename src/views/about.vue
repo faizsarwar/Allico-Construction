@@ -15,7 +15,7 @@
         <div class="row pl-4 pr-4">
             <div class="col-8 text-left">
                 <!-- <h1 style="color:#2490d1;">BIG DUTCHMAN</h1> -->
-                <p class="pt-4"><b> Active for 75 years </b> - Since our foundation in 1948 under the name Maurice Kassenbouw we have experienced immense development. Over the years, we have evolved from a regional greenhouse builder into a company that occupies a leading position in the horticultural sector. Since 1988 we have start up the export devision under the name ALLICO Construction. Built on years of experience, we can deliver you perfectly customized total projects. We fulfil your requirements, with a priority on the indoor and outdoor climate. Thanks to this focus, we offer your company and your performance the optimal opportunities to grow.</p>
+                <p class="pt-4"> We can deliver you perfectly customized total projects. We fulfil your requirements, with a priority on the indoor and outdoor climate. Thanks to this focus, we offer your company and your performance the optimal opportunities to grow.</p>
                 <br>
                 <p class=" ">
                     Over time, the demand for horticultural products has increased significantly. We have responded by automating our own steel production activities. Welding robots, plasma and laser cutters, machine saws and transport cranes help us to deliver customised projects as quickly as possible.
@@ -35,7 +35,11 @@
 
             </div>
             <div class="col-4 text-right">
-                <img src="../assets/img/newlogo.png" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:50%; ">      
+                <!-- <img src="../assets/img/newlogo.png" alt="" class=" mb-5 " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:50%; ">       -->
+            
+
+                <img src="../assets/img/19.jpg" alt="" class=" mt-5" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:80%; ">      
+
             </div>
         </div>
 
@@ -44,12 +48,9 @@
     <section class="p-5">
                 <h1 style="color:#2490d1;">BIG DUTCHMAN</h1>
         <div class="row pl-4 pr-4">
-            <div class="col-8 text-left">
+            <div class="text-left">
 
                 <p class="pt-4">ALLICO and Big Dutchman – Our German partner Big Dutchman designs and distributes innovative feeding systems and housing equipment for modern pig and poultry production as well as insect farming with around 3,400 employees. A global dealer network and the clever organization of the company have established a highly-efficient logistics system in all applicable markets. In more than 100 countries around the world, Big Dutchman products help produce food that is rich in protein in a profitable manner. With a turnover of EUR 985 million (2020), the family-owned company headquartered in Vechta, Lower Saxony, is considered the industry’s market leader.</p>
-            </div>
-            <div class="col-4 text-right">
-                <!-- <img src="../assets/img/logo1.png" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:50%; ">       -->
             </div>
         </div>
 
@@ -77,7 +78,7 @@
             </div>
             <div class="col-6 text-left">
                 <h1 style="color:#2490d1;">ALLICO CONSTRUCTION: INTERNATIONALLY ORIENTED</h1>
-                <p class="pt-4">ALLICO Construction was founded in 1988 as the export department of Maurice Kassenbouw and focuses on customised, international projects. Both Maurice Kassenbouw and ALLICO Construction are located in the same premises and operated by the same team. With our export department, ALLICO Construction we can offer the highest level of quality and service for our international customers and anticipate on the growing demand from the horticultural sector worldwide.</p>
+                <p class="pt-4">ALLICO Construction was founded in 2022 as the export department of Maurice Kassenbouw and focuses on customised, international projects. Both Maurice Kassenbouw and ALLICO Construction are located in the same premises and operated by the same team. With our export department, ALLICO Construction we can offer the highest level of quality and service for our international customers and anticipate on the growing demand from the horticultural sector worldwide.</p>
             </div>
         </div>
 
@@ -98,16 +99,19 @@
     </section>
 
     <section >
-        <div class="ml-3 " style="border-radius:35px; background-color:red" >
+        <div class="ml-3 " style="border-radius:35px; background-color:#2490d1" >
         <div class="row" >
-          <div class="col-lg text-left pl-5" >
-              <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 mt-3">
-                  <h1 class=" mb-5" style="color:white; font-weight:bolder;" > WOULD YOU LIKE TO KNOW MORE ABOUT ALLICO CONSTRUCTION?</h1>
+          <div class="col-lg text-left pl-5 pt-5 " >
+              <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 ">
+                  <h1 class=" mb-5  " style="color:white; font-weight:bolder;" > WOULD YOU LIKE TO KNOW MORE ABOUT ALLICO CONSTRUCTION?</h1>
                   <h4 class="mr-5  mt-4 text" style="color:white ;">WE LOOK FORWARD TO TELL YOU!</h4>
+                    <div class="text-center" >
+                  <a href="/contact" class="btn bt mt-5 ml-5 pl-5 pr-5 pt-2 pb-2" style="background-color:red;border-radius:35px; color:white">Contact Us</a>
+                    </div>
               </div>
             </div>
             <div class="col-lg " style=" text-align: center; color: black;">
-              <img src="../assets/img/1.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
+              <img src="../assets/img/22.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
             </div>
         </div>
         </div>

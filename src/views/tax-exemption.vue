@@ -6,7 +6,7 @@
 
     <sectdion>
         <div class="row p-5">
-            <div class="col-8 text-left">
+            <div class="p-5 text-left">
                 <div>
                     <h2 style="color:#2490d1; " ><b> Information for Customers With Tax Exempt Status </b></h2>
                     <p class="mt-4">At ALLICO Greenhouse Systems, we work with all kinds of clients with tax exempt status, from educational facilities to non-profits, and more. We work to make the tax exempt ordering process as easy as possible, and we offer a simple way to complete your order correctly and get you on the way to growing in your ALLICO greenhouse.</p>
@@ -44,7 +44,7 @@
                     <!-- <a href="" class="btn btn p-2 pl-3 pr-3" style="background-color:red; color: white"> Submit Docs</a> -->
                 </div>
             </div>
-            <div class="col-4 ">
+            <div class="col-12 ">
               <div class="p-3 card">
                 <h1 style="color:#2490d1; ">MAILING ADDRESS</h1>
                 <p>116 Bullevard, Prenceton</p>
@@ -57,12 +57,15 @@
     </sectdion>
 
     <section >
-        <div class="ml-3 " style="border-radius:35px; background-color:blue" >
+        <div class="ml-3 " style="border-radius:35px; background-color:#2490d1" >
         <div class="row" >
-          <div class="col-lg text-left pl-5" >
+          <div class="col-lg text-left pl-5 mt-5 pt-5" >
               <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 mt-3">
                   <h1 class=" mb-5" style="color:white; font-weight:bolder;" > WOULD YOU LIKE TO KNOW MORE ABOUT ALLICO CONSTRUCTION?</h1>
                   <h4 class="mr-5  mt-4 text" style="color:white ;">WE LOOK FORWARD TO TELL YOU!</h4>
+                                              <div class="text-center" >
+                  <a href="/contact" class="btn bt mt-5 ml-5 pl-5 pr-5 pt-2 pb-2" style="background-color:red;border-radius:35px; color:white">Contact Us</a>
+                    </div>
               </div>
             </div>
             <div class="col-lg " style=" text-align: center; color: black;">

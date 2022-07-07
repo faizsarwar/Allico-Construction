@@ -25,12 +25,15 @@ data tailored specifically towards each project's needs (and plenty more besides
 
 
     <section >
-        <div class="ml-3" style="border-radius:35px; background-color:red" >
+        <div class="ml-3" style="border-radius:35px; background-color:#2490d1" >
         <div class="row" >
-          <div class="col-lg text-left pl-5" >
+          <div class="col-lg text-left pl-5 pt-5 mt-3" >
               <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 mt-3">
-                  <h1 class=" mb-5" style="color:white; font-weight:bolder;" >YOU WANT TO EXPERIENCE IT YOURSELF?</h1>
-                  <h4 class="mr-5  mt-4 text" style="color:white ;">DO NOT HESITATE TO CONTACT US FOR MORE INFORMATION AND OUR POSSIBILITIES</h4>
+                  <h2 class=" mb-5" style="color:white; font-weight:bolder;" >YOU WANT TO EXPERIENCE IT YOURSELF?</h2>
+                  <h3 class="mr-5  mt-4 text" style="color:white ;">DO NOT HESITATE TO CONTACT US FOR MORE INFORMATION AND OUR POSSIBILITIES</h3>
+                                              <div class="text-center" >
+                  <a href="/contact" class="btn bt mt-5 ml-5 pl-5 pr-5 pt-2 pb-2" style="background-color:red;border-radius:35px; color:white">Contact Us</a>
+                    </div>
               </div>
             </div>
             <div class="col-lg " style=" text-align: center; color: black;">

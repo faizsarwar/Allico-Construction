@@ -5,7 +5,7 @@
       GREENHOUSE CONSTRUCTION
     </h1>
     <section class="p-5 text-left" style="background-color: white">
-      <p class="p-4 ml-5">We have more than 75 years of experience and knowledge in greenhouse constructions. From
+      <p class="p-4 ml-5"> From
 standardized projects to tailor made designs, we support you during the entire process while
 taking cost considerations into account so that your new green house will always achieve an
 optimum yield. We're experts when it comes down designing custom-built structures for
@@ -62,7 +62,7 @@ making it possible to create your own tailored solution to suit any need or tast
 
                   <div class="col-md-6 mb-3"  >
                     <div class="card" style="">
-                      <img src="../assets/img/1.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
+                      <img src="../assets/img/7.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
                     <div class="card-body seller-Card">
 
                       <div class="row" style="color:#466D1D;">
@@ -125,7 +125,7 @@ VENLO models.</p>
                 <div class="row seller-Card">
                   <div class="col-md-6 mb-3"  >
                     <div class="card" style="">
-                      <img src="../assets/img/1.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
+                      <img src="../assets/img/23.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
                     <div class="card-body seller-Card">
 
                       <div class="row" style="color:#466D1D;">
@@ -163,7 +163,7 @@ off crops or growing vegetables in order to produce more food at home.
 
                   <div class="col-md-6 mb-3"  >
                     <div class="card" style="">
-                      <img src="../assets/img/1.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
+                      <img src="../assets/img/2.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
                     <div class="card-body seller-Card">
 
                       <div class="row" style="color:#466D1D;">
@@ -223,7 +223,7 @@ perfect to house internal transport systems.</p>
                 <div class="row seller-Card">
                   <div class="col-md-6 mb-3"  >
                     <div class="card" style="">
-                      <img src="../assets/img/1.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
+                      <img src="../assets/img/20.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
                     <div class="card-body seller-Card">
 
                       <div class="row" style="color:#466D1D;">
@@ -263,7 +263,7 @@ time on our shelves near food items people buy every day without even thinking t
 
                   <div class="col-md-6 mb-3"  >
                     <div class="card" style="">
-                      <img src="../assets/img/1.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
+                      <img src="../assets/img/19.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
                     <div class="card-body seller-Card">
 
                       <div class="row" style="color:#466D1D;">
@@ -325,14 +325,17 @@ specifically by experts who understand how important sustainability really is.
     <section >
         <div class="ml-3 " style="border-radius:35px; background-color:red" >
         <div class="row" >
-          <div class="col-lg text-left pl-5" >
+          <div class="col-lg text-left pl-5 mt-3 pt-5" >
               <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 mt-3">
                   <h2 class=" mb-5" style="color:white; font-weight:bolder;" >WOULD YOU LIKE TO HAVE MORE INFORMATION ABOUT THE COSTS FOR A VENLO GREENHOUSE?</h2>
                   <h4 class="mr-5  mt-4 text" style="color:white ;">FEEL FREE TO CONTACT US</h4>
+                                              <div class="text-center" >
+                  <a href="/contact" class="btn bt mt-5 ml-5 pl-5 pr-5 pt-2 pb-2" style="background-color:#2490d1;border-radius:35px; color:white">Contact Us</a>
+                    </div>
               </div>
             </div>
             <div class="col-lg " style=" text-align: center; color: black;">
-              <img src="../assets/img/1.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
+              <img src="../assets/img/23.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
             </div>
         </div>
         </div>
@@ -558,7 +561,7 @@ export default {
 }
 
 .card-body{
-  height: 400px;
+  height: 330px;
   overflow-x:hidden;
 }
 

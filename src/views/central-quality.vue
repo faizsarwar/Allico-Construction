@@ -40,26 +40,26 @@
     <section class="p-5">
                       <h1 style="color:#2490d1;">MEMBER OF GLITCH</h1>
         <div class="row pl-4 pr-4 mt-4">
-            <div class="col-6 pl-5 text-left">
+            <div class="col-12 pb-5 pl-5 pr-5 text-center">
 
-             
-                <b class="pt-4 ">ALLICO Construction is member of the GLITCH project. Together with other partners, the GLITCH project focuses on the development of innovative energy efficient and climate neutral cultivation techniques in the greenhouse horticulture sector. </b>
-
-            </div>
-            <div class="col-6 text-left">
-                <!-- <p class="pt-4"><b> Always available </b> - We are 24/7 available. Outside office hours, please contact the sales team.</p> -->
+              <div class="p-5">
+                <b class="p-4 ">ALLICO Construction is member of the GLITCH project. Together with other partners, the GLITCH project focuses on the development of innovative energy efficient and climate neutral cultivation techniques in the greenhouse horticulture sector. </b>
+              </div>
             </div>
         </div>
     </section>
 
 
     <section >
-        <div class="ml-3 " style="border-radius:35px; background-color:red" >
+        <div class="ml-3 " style="border-radius:35px; background-color:#2490d1" >
         <div class="row" >
-          <div class="col-lg text-left pl-5" >
+          <div class="col-lg text-left pl-5 pt-5 mt-5" >
               <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 mt-3">
-                  <h1 class=" mb-5" style="color:white; font-weight:bolder;" >WOULD YOU LIKE TO KNOW MORE ABOUT THE BENEFITS WE OFFER YOU?</h1>
+                  <h2 class=" mb-5" style="color:white; font-weight:bolder;" >WOULD YOU LIKE TO KNOW MORE ABOUT THE BENEFITS WE OFFER YOU?</h2>
                   <h4 class="mr-5  mt-4 text" style="color:white ;">CONTACT US FOR MORE INFORMATION</h4>
+                                              <div class="text-center" >
+                  <a href="/contact" class="btn bt mt-5 ml-5 pl-5 pr-5 pt-2 pb-2" style="background-color:red;border-radius:35px; color:white">Contact Us</a>
+                    </div>
               </div>
             </div>
             <div class="col-lg " style=" text-align: center; color: black;">

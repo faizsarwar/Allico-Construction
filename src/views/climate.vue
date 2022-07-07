@@ -49,6 +49,7 @@ equipped with appropriate hardware based on its geographical conditions.</li>
         </ul>
       </div>
       <div class="col-6">
+        <div class="row ml-4">
         <h3 class="m-3 ml-4 mb-5" style="color:#2490d1;"> <b> AIR & ENERGY</b> </h3>
         <p>Our own developed Air & Energy system, creates an optimal climate for crop growth and has the benefit of saving up to 70% on energy consumption. </p>
         
@@ -56,22 +57,31 @@ equipped with appropriate hardware based on its geographical conditions.</li>
             <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/>
             </svg>
         </a>
+
+        </div>
+
+      <img src="../assets/img/19.jpg" alt="" class="ml-5 mt-4 " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:65%; ">
+
       </div>
+
     </div>
   </section>
 
 
     <section >
-        <div class="ml-3 " style="border-radius:35px; background-color:red" >
+        <div class="ml-3 " style="border-radius:35px; background-color:#2490d1" >
         <div class="row" >
-          <div class="col-lg text-left pl-5" >
+          <div class="col-lg text-left pl-5 pt-5 mt-2" >
               <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 mt-3">
                   <h1 class=" mb-5" style="color:white; font-weight:bolder;" >DO YOU WANT TO HAVE THE PERFECT CLIMATE IN YOUR GREENHOUSE?</h1>
                   <h4 class="mr-5  mt-4 text" style="color:white ;">CONTACT US FOR MORE INFORMATION</h4>
+                                              <div class="text-center" >
+                  <a href="/contact" class="btn bt mt-5 ml-5 pl-5 pr-5 pt-2 pb-2" style="background-color:red;border-radius:35px; color:white">Contact Us</a>
+                    </div>
               </div>
             </div>
             <div class="col-lg " style=" text-align: center; color: black;">
-              <img src="../assets/img/3.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
+              <img src="../assets/img/18.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
             </div>
         </div>
         </div>

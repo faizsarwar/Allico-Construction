@@ -47,7 +47,12 @@
 
            <h3 class="m-3 mt-5 mb-5" style="color:#2490d1;"> <b>SUSTAINABILITY: EYE FOR THE ENVIRONMENT</b> </h3>
         <p>Sustainability is a very important item for ALLICO Construction. Because of that, we have set up our own production and processes on a sustainable manner as well. A perfect example is our Air & Energy system, which achieve significant energy savings in the greenhouse. Besides, our delivered end products contribute to the achievement of Sustainable Development Goals, prepared by the United Nations.</p>
-     
+
+        <div class="ml-5 pl-5">
+     <img src="../assets/img/20.jpg" alt="" class="ml-5 pl-5 " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:65%; ">
+    
+        </div>
+             
       </div>
     </div>
   </section>
@@ -56,9 +61,9 @@
     <section >
         <div class="ml-3 " style="border-radius:35px; background-color:red" >
         <div class="row" >
-          <div class="col-lg text-left pl-5" >
+          <div class="col-lg text-left pl-5 pt-5" >
               <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 mt-3">
-                  <h1 class=" mb-5" style="color:white; font-weight:bolder;" >WOULD YOU LIKE TO KNOW MORE ABOUT THE AIR & ENERGY GREENHOUSE?</h1>
+                  <h2 class=" mb-5" style="color:white; font-weight:bolder;" >WOULD YOU LIKE TO KNOW MORE ABOUT THE AIR & ENERGY GREENHOUSE?</h2>
                   <h4 class="mr-5  mt-4 text" style="color:white ;">WE ARE LOOKING FORWARD TO EXPLAIN YOU MORE INTO DETAIL</h4>
               </div>
             </div>

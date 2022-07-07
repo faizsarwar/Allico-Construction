@@ -17,9 +17,12 @@
                     <li class="m-0 p-0"><b> Customer centric </b>- a solution that suits your needs</li>
                     <li class="m-0 p-0"><b> Service </b>- we are always there for you</li>
                 </ul>
-            </div>
-            <div class="col-6 text-left">
                 <p class="pt-4"><b> Always available </b> - We are 24/7 available. Outside office hours, please contact the sales team.</p>
+
+            </div>
+            <div class="col-6 pl-5 text-left">
+                   <img src="../assets/img/22.jpg" alt="" class="ml-4 " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:70%; ">      
+
             </div>
         </div>
 
@@ -29,10 +32,13 @@
     <section >
         <div class="ml-3 " style="border-radius:35px;background-color:red" >
         <div class="row" >
-          <div class="col-lg text-left pl-5" >
+          <div class="col-lg text-left pl-5 pt-3 mt-4" >
               <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 mt-3">
                   <h1 class=" mb-5" style="color:white; font-weight:bolder;" > WOULD YOU LIKE TO KNOW MORE ABOUT ALLICO CONSTRUCTION?</h1>
                   <h4 class="mr-5  mt-4 text" style="color:white ;">WE LOOK FORWARD TO TELL YOU!</h4>
+                                              <div class="text-center" >
+                  <a href="/contact" class="btn bt mt-5 ml-5 pl-5 pr-5 pt-2 pb-2" style="background-color:#2490d1;border-radius:35px; color:white">Contact Us</a>
+                    </div>
               </div>
             </div>
             <div class="col-lg " style=" text-align: center; color: black;">

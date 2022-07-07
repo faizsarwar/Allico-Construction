@@ -6,7 +6,7 @@
 
     <sectdion>
         <div class="row p-5">
-            <div class="col-8 text-left">
+            <div class="p-4 text-left">
                 <div>
                     <h1 style="color:#2490d1; " ><b> Policies and Conditions </b></h1>
                     <p class="mt-4">We ship your orders with the most common shipping methods: via Motor Freight, UPS and Air
@@ -154,14 +154,11 @@ responsible yourself when it comes down accountability during improper handling.
 and manufacturer’s rights to change this contract are limited.</p>
                     <!-- <a href="" class="btn btn p-2 pl-3 pr-3" style="background-color:red; color: white"> Submit Docs</a> -->
                 </div>
-            </div>
-            <div class="col-4">
-              <div class="p-3 card">
+                         <div class="p-3 mt-5 card">
                 <h1 style="color:#2490d1; ">MAILING ADDRESS</h1>
                 <p>116 Bullevard, Prenceton</p>
                 <!-- <a href="" class="btn btn p-2 pl-3 pr-3" style="background-color:red; color: white"> Faqs</a> -->
               </div>
-              
 
             </div>
         </div>
@@ -170,10 +167,13 @@ and manufacturer’s rights to change this contract are limited.</p>
     <section >
         <div class="ml-3 " style="border-radius:35px; background-color:red" >
         <div class="row" >
-          <div class="col-lg text-left pl-5" >
+          <div class="col-lg text-left pl-5 pt-4 " >
               <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 mt-3">
                   <h1 class=" mb-5" style="color:white; font-weight:bolder;" > WOULD YOU LIKE TO KNOW MORE ABOUT ALLICO CONSTRUCTION?</h1>
                   <h4 class="mr-5  mt-4 text" style="color:white ;">WE LOOK FORWARD TO TELL YOU!</h4>
+                                              <div class="text-center" >
+                  <a href="/contact" class="btn bt mt-5 ml-5 pl-5 pr-5 pt-2 pb-2" style="background-color:#2490d1;border-radius:35px; color:white">Contact Us</a>
+                    </div>
               </div>
             </div>
             <div class="col-lg " style=" text-align: center; color: black;">
