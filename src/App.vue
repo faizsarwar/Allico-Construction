@@ -24,10 +24,10 @@
       </div> -->
 
 
-<nav class="navbar navbar-expand-lg bg-light p-0  navbar-light mt-0 mb-0" id="navbar_top" style="background-color:white; color:#2490d1">
+<nav class="navbar navbar-expand-lg  p-0  navbar-light mt-0 mb-0" id="navbar_top" style="background-color:white; color:#2490d1">
             <a href="/">
             <img
-              src="./assets/img/newlogo.jpeg"
+              src="./assets/img/newlogo.png"
               alt=""
               srcset=""
               style="height: 90px"
@@ -242,6 +242,15 @@ document.addEventListener("DOMContentLoaded", function(){
     border-top: 0;
     transition: 0.3s;
 }
+
+#app {
+  font-family: Minion;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
+
 .swal2-icon .swal2-success .swal2-icon-show{
   overflow-y: hidden;
   overflow-x:hidden
@@ -306,13 +315,13 @@ li a{
       margin: 20px;
     }
   } 
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+// #app {
+//   font-family: Avenir, Helvetica, Arial, sans-serif;
+//   -webkit-font-smoothing: antialiased;
+//   -moz-osx-font-smoothing: grayscale;
+//   text-align: center;
+//   color: #2c3e50;
+// }
 a {
   text-decoration: none !important;
 }
