@@ -20,7 +20,7 @@
                   <h1 class=" mb-5" style="color:white; font-weight:bolder;" >IS YOUR DREAM JOB NOT LISTED?</h1>
                   <h4 class="mr-5  mt-4 text" style="color:white;">PLEASE FEEL FREE TO CONTACT US ABOUT CAREER OPPORTUNITIES AT OUR COMPANY</h4>
                   <div class="text-center" >
-                  <a href="/contact" class="btn bt mt-5  pr-5 pt-2 pb-2" style="background-color:red;border-radius:35px; color:white">Contact Us</a>
+                  <a href="/contact" class="btn bt mt-5  pl-5 pr-5 pt-2 pb-2" style="background-color:red;border-radius:35px; color:white">Contact Us</a>
                     </div>
               </div>
             </div>
