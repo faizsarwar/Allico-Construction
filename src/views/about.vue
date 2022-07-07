@@ -101,7 +101,7 @@
     <section >
         <div class="ml-3 " style="border-radius:35px; background-color:#2490d1" >
         <div class="row" >
-          <div class="col-lg text-left pl-5 pt-5 " >
+          <div class="col-lg text-left pl-5 pt-2 " >
               <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 ">
                   <h1 class=" mb-5  " style="color:white; font-weight:bolder;" > WOULD YOU LIKE TO KNOW MORE ABOUT ALLICO CONSTRUCTION?</h1>
                   <h4 class="mr-5  mt-4 text" style="color:white ;">WE LOOK FORWARD TO TELL YOU!</h4>

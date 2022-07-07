@@ -41,9 +41,9 @@ conditions and type of cultivation. We can help you with this decision</li>
     <section >
         <div class="ml-3 " style="border-radius:35px; background-color:red " >
         <div class="row" >
-          <div class="col-lg text-left pl-5 mt-3 pt-4" >
-              <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 mt-3">
-                  <h1 class=" mb-5" style="color:white; font-weight:bolder;" >ARE YOU CURIOUS TO DISCOVER THE BENEFITS OF A SCREENING INSTALLATION?</h1>
+          <div class="col-lg text-left pl-5 " >
+              <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 ">
+                  <h2 class=" mb-5" style="color:white; font-weight:bolder;" >ARE YOU CURIOUS TO DISCOVER THE BENEFITS OF A SCREENING INSTALLATION?</h2>
                   <h4 class="mr-5  mt-4 text" style="color:white ;">CONTACT US TO LEARN MORE</h4>
                                               <div class="text-center" >
                   <a href="/contact" class="btn bt mt-5 ml-5 pl-5 pr-5 pt-2 pb-2" style="background-color:#2490d1;border-radius:35px; color:white">Contact Us</a>

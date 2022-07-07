@@ -55,7 +55,7 @@ We look forward to tell you more about our organisation, products, projects and 
         <div class="" style="border-radius:35px; background-color:red" >
         <div class="row" >
           <div class="col-lg text-left" >
-              <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 mt-5">
+              <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 ">
                   <h1 class=" mb-5 mt-5" style="color:white; font-weight:bolder;" > WELCOME TO ALLICO SYSTEMS CONSTRUCTION</h1>
                   <h3 class="mr-5 mt-4 text" style="color:white ;">DISCOVER THE POSSIBILITIES AND SERVICES WE OFFER</h3>
 

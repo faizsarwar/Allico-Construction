@@ -71,9 +71,9 @@ equipped with appropriate hardware based on its geographical conditions.</li>
     <section >
         <div class="ml-3 " style="border-radius:35px; background-color:#2490d1" >
         <div class="row" >
-          <div class="col-lg text-left pl-5 pt-5 mt-2" >
-              <div class=" mr-5 pt-5 pr-5 pl-5 pb-4 mt-3">
-                  <h1 class=" mb-5" style="color:white; font-weight:bolder;" >DO YOU WANT TO HAVE THE PERFECT CLIMATE IN YOUR GREENHOUSE?</h1>
+          <div class="col-lg text-left pl-5 " >
+              <div class=" mr-5 pt-5 pr-5 pl-5">
+                  <h2 class=" mb-5" style="color:white; font-weight:bolder;" >DO YOU WANT TO HAVE THE PERFECT CLIMATE IN YOUR GREENHOUSE?</h2>
                   <h4 class="mr-5  mt-4 text" style="color:white ;">CONTACT US FOR MORE INFORMATION</h4>
                                               <div class="text-center" >
                   <a href="/contact" class="btn bt mt-5 ml-5 pl-5 pr-5 pt-2 pb-2" style="background-color:red;border-radius:35px; color:white">Contact Us</a>
