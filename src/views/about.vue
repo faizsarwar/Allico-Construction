@@ -1,15 +1,10 @@
 <template>
   <div class="home pt-4 pb-5">
     
-    <!-- <section>
-        <div class="row">
-            <img src="../assets/img/1.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; height:30% ">           
-        </div>
-    </section> -->
 
     <section class="p-5">
-        <div class=" ">
-            <h1 style="color:#2490d1;" class="text-center"><b> ABOUT US </b></h1>
+        <div class="pl-5 pr-5">
+          <h1 style="color:#2490d1;" class="card text-center ml-5 mr-5">About Us</h1>
         </div>
 
         <div class="row pl-4 pr-4">
@@ -45,8 +40,44 @@
 
     </section>
 
+
+      <section class="p-5">
+
+        <div class="pl-5 pr-5">
+          <h1 style="color:#2490d1;" class="card  ml-5 mr-5">FLEXIBILITY AND SERVICE</h1>
+        </div>
+
+        <div class="row pl-4 pr-4">
+            <h4 class=" p-4 text-left" ><b> Custom-made </b>- From advice about your conceptual plans till realisation and completion of your project. We take care for needs from A to Z. Together, we create a plan and manage the project till the final completion on site. Delivery according planning schedule and planting dates are hereby our main goals.</h4>
+
+            <div class="col-6 text-left">
+             
+                <p class="pt-4 ml-3">With the following qualities of our organization we can suply you the best result</p>
+                <ul>
+                    <li class="m-0 p-0"><b> Flexibility </b>- we operate and think in a flexible perspective</li>
+                    <li class="m-0 p-0"><b> Own production </b>- guaranteed quality</li>
+                    <li class="m-0 p-0"><b> Focus on plants and cultivation </b>- the plants are central</li>
+                    <li class="m-0 p-0"><b> Customer centric </b>- a solution that suits your needs</li>
+                    <li class="m-0 p-0"><b> Service </b>- we are always there for you</li>
+                </ul>
+                <p class="pt-4 ml-3"><b> Always available </b> - We are 24/7 available. Outside office hours, please contact the sales team.</p>
+
+            </div>
+            <div class="col-6 pl-5 text-left">
+                   <img src="../assets/img/22.jpg" alt="" class="ml-4 " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:70%; ">      
+
+            </div>
+        </div>
+
+    </section>
+
+
+
     <section class="p-5">
-                <h1 style="color:#2490d1;">BIG DUTCHMAN</h1>
+
+        <div class="pl-5 pr-5">
+          <h1 style="color:#2490d1;" class="card text-center ml-5 mr-5">BIG DUTCHMAN</h1>
+        </div>
         <div class="row pl-4 pr-4">
             <div class="text-left">
 
@@ -62,7 +93,10 @@
 
         <div class="row pl-4 pr-4">
             <div class="col-6 text-left">
-                <h1 style="color:#2490d1;">GREAT VARIETY OF CUSTOMERS</h1>
+                <div class="">
+                  <h1 style="color:#2490d1;" class="card text-center ">GREAT VARIETY OF CUSTOMERS</h1>
+                </div>
+                
                 <p class="pt-4">Our customer base is diverse. ALLICO Construction develop suitable solutions for every customer according your specific situation. We are active in the following sectors:</p>
                 <ul>
                     <li class="m-0 p-0">Vegetables</li>
@@ -77,7 +111,10 @@
                 </ul>
             </div>
             <div class="col-6 text-left">
-                <h1 style="color:#2490d1;">ALLICO CONSTRUCTION: INTERNATIONALLY ORIENTED</h1>
+                <div class="">
+                  <h1 style="color:#2490d1;" class="card text-center ml-2 mr-2">ALLICO CONSTRUCTION: INTERNATIONALLY ORIENTED</h1>
+                </div>
+                
                 <p class="pt-4">ALLICO Construction was founded in 2022 as the export department of Maurice Kassenbouw and focuses on customised, international projects. Both Maurice Kassenbouw and ALLICO Construction are located in the same premises and operated by the same team. With our export department, ALLICO Construction we can offer the highest level of quality and service for our international customers and anticipate on the growing demand from the horticultural sector worldwide.</p>
             </div>
         </div>
@@ -88,7 +125,9 @@
 
         <div class="row pl-4 pr-4">
             <div class="col-6 text-left">
-                <h1 style="color:#2490d1;">SOCIALLY INVOLVED</h1>
+                <div class="pl-5 pr-5">
+                  <h1 style="color:#2490d1;" class="card text-center ml-5 mr-5">SOCIALLY INVOLVED</h1>
+                </div>
                 <p class="pt-4">At ALLICO Construction we consider it important to contribute to the society. For this reason, we support various local (sport) associations and initiatives. We also offer our employees sport, wellness and health care possibilities.</p>
             </div>
             <div class="col-6 text-right">

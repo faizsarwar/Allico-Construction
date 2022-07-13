@@ -44,7 +44,10 @@
       <li class="nav-item mr-3 ml-3 mr-2 ">
         <a class="" style="color:#2490d1" href="/">Home</a>
       </li>
-      <li class="nav-item ml-2 mr-3 dropdown" >
+      <li class="nav-item mr-3 ml-3 mr-2 ">
+        <a class="" style="color:#2490d1" href="/about/about-us">About Us</a>
+      </li>
+      <!-- <li class="nav-item ml-2 mr-3 dropdown" >
         <a class="" style="color:#2490d1;" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           About Us
         </a>
@@ -53,7 +56,7 @@
           <a class="dropdown-item  mb-4 ml-2 mr-2" href="/about/flexibility-and-service"><strong>Flexibility And Service </strong> </a>
           <a class="dropdown-item  mb-4 ml-2 mr-2" href="/about/central-quality"><strong>Quality</strong>  </a>
         </div>
-      </li>
+      </li> -->
       <li class="nav-item mr-3 ml-3  dropdown" >
         <a class=" " style="color:#2490d1; " href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Products
@@ -79,7 +82,7 @@
           <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/contact"> <strong>Contact</strong> </a>
           <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/tax-exemption"> <strong>Tax Exemption</strong> </a>
           <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/shipping-information"> <strong>Shipping Info</strong> </a>
-          <!-- <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/shipping-information"> <strong>Construction tips</strong> </a> -->
+          <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/shipping-information"> <strong>Construction tips</strong> </a>
           <a class="dropdown-item mb-4 ml-2 mr-2" href="/request-a-catalog"><strong>Request A Catalog</strong> </a>
         </div>
       </li>
