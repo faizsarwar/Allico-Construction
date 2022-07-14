@@ -57,7 +57,10 @@
           <a class="dropdown-item  mb-4 ml-2 mr-2" href="/about/central-quality"><strong>Quality</strong>  </a>
         </div>
       </li> -->
-      <li class="nav-item mr-3 ml-3  dropdown" >
+         <li class="nav-item mr-3 ml-3 mr-2 ">
+        <a class="" style="color:#2490d1" href="/products/complete-projects">Products</a>
+      </li>
+      <!-- <li class="nav-item mr-3 ml-3  dropdown" >
         <a class=" " style="color:#2490d1; " href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Products
         </a>
@@ -67,7 +70,7 @@
           <a class="dropdown-item  mb-4 ml-2 mr-2" href="/products/screening"><strong>Screening</strong></a>
           <a class="dropdown-item  mb-4 ml-2 mr-2" href="/products/climate"><strong>Climate</strong></a>
         </div>
-      </li>
+      </li> -->
       <li class="nav-item mr-3 ml-3 mr-2 ">
         <a class="" style="color:#2490d1" href="/air-energy">Air & Energy</a>
       </li>

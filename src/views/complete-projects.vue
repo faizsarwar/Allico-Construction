@@ -1,6 +1,127 @@
 <template>
   <div class="home pt-4 pb-5">
 
+<div class="p-5 m-4">
+  <div id="carouselExampleIndicators" class="carousel slide p-5" data-ride="carousel">
+    <ol class="carousel-indicators " style="background-color:#2490d1;">
+      <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner p-5">
+      <div class="carousel-item active">
+    <div class="p-5">
+      <div class="card ">
+          <h1 class="m-3 ml-4 mb-5" style="color:#2490d1;"> <b> SCREENING </b> </h1>
+          <section class="p-5 text-left">
+
+              <div class="row pl-4 pr-4">
+                  <h4 class="pl-4 pr-4">We offer a wide range of options to suit your needs and climate. Screen installations can be
+      installed for increased efficiency, such as regulating different parameters like moisture balance
+      or CO2 content without affecting temperature levels in the greenhouse! Summer may not last
+      forever but at least you have those beautiful plants all year-round thanks to our high-quality
+      screens.</h4>
+              </div>
+
+                  <h2 class="pl-4 text-center mt-5" style="color:#2490d1;">SCREENING INSTALLATIONS: A RANGE OF POSSIBILITIES</h2>
+              <div class="row pl-4 pr-4 mt-3">
+
+                  <h4 class="pl-4 mt-3" >We offer a wide range of services to meet your specific needs.</h4>
+                  <ul>
+                      <li><b> Horizontal screens </b>Having a lighting system that can be adjusted to suit your needs and crop is crucial for getting
+      the most out of them. The options within this category will help you save energy, contain
+      assimilation lighting so it doesn't shine on other plants in an area instead just warming up soil
+      but also reducing solar reflection which makes hot spots more comfortable during summer
+      months when temperatures soar.</li>
+                      <li><b> Gable screens </b>This is a perfect way to provide the right amount of light for your home. This will save energy
+      and help keep you cozy all winter long.</li>
+                      <li><b> Twin gable </b>The use of this system will allow you to separate the greenhouse into different compartments
+      or create climates that are more specific.</li>
+                      <li><b> Insect netting </b>Managing disease pressure and preventing bugs from entering your greenhouse is important
+      for keeping healthy crops. You should keep beneficial insects like bees or bumblebees inside,
+      but you don't want pests like thrips and aphids coming in too. <br> 
+      Choosing the right cloth for your crop is important, because it will depend on seasonal climate
+      conditions and type of cultivation. We can help you with this decision</li>
+                  </ul>
+                  <h4 class="pl-4 pr-4 mt-3">An important component of the screening installation is the type of cloth. We can advise you in choosing the right cloth type for your crop, based on the (seasonal) climate conditions, type of cultivation and your specific situation.
+      </h4>
+              </div>
+          </section>  
+      </div>
+    </div>
+      </div>
+      <div class="carousel-item p-5">
+        <div class="card p-5 ">
+        <h1 class="m-3 ml-4 mb-5" style="color:#2490d1;"> <b> CLIMATE</b> </h1>
+    <section class="p-5 pt-0 text-left">
+
+        <div class="row pl-4 pr-4">
+            <h5 class="pl-4 pr-4">We all know the importance of creating a greenhouse climate to maximize yield and
+performance. However, some people might not be aware that there are different factors whichdetermine your optimal growing conditions - such as temperature fluctuations in humidity
+levels for instance! If you let us help with this aspect by taking advantage our expertise when
+designing yours, we can ensure maximum yields while maintaining quality throughout every
+stage from seedling emerge through harvest time</h5>
+        </div>
+    </section>
+
+  <section class="p-5 text-left">
+    <div class="row">  
+      <div class="col-6">
+        <h3 class="m-3 ml-4 mb-5" style="color:#2490d1;"> <b> Optimizing the Photosynthesis Process:</b> </h3>
+        <ul>
+          <li><b> LED lighting or assimilation lighting </b> an be a great choice for greenhouses because it is
+
+efficient and doesn't emit heat. With the right installation, LED lights will not only
+extend your growing season but also improve quality with less stress on plants thanks to
+its long-life span- 50 000 hours. LED lights which provide all day sunshine without heat
+generation so there'll be no worries about greenhouse leaks during those hot summer
+months when temperatures soar over 100 degrees Fahrenheit (38 Celsius). Plus,
+because it uses drastically less power than traditional HID lamps like 600Wmp reflectors
+used.</li>
+           <li>We also install <b> heating systems </b>that are optimally adapted for your situation. Heating
+system availability is tantamount to the variety of fuels available, and our team works
+with you in order develop a sustainable solution which will create the best climate
+possible around here.</li>
+          <li>The right <b>  cooling system </b> can have a significant impact on the quality and yield of your
+crops. A good way to keep yourself cool is by using an air conditioner, which will ensure that
+you are able reach top productivity while staying healthy throughout hot weather months.</li>
+          <li>It is crucial to have the right <b> water  </b> for photosynthesis. We work with you on designing a custom
+plan based off where your crops will be grown, what kind of sample we take from them and any
+other factors that might affect their health or production rate such as availability facilities. A
+significant role in growing healthy plants can only happen when considering all aspects including
+quality assurance measures since this affects plant growth drastically. </li>
+          <li>If you want your home or office to be environmentally friendly, then it needs an energy-efficient
+and <b> reliable electrical installation. </b> We can help with that! At our company we calculate all
+required cables as well switch panels so they're installed correctly by following local
+specifications for electronic devices in use within each building/room where needed. All systems
+are connected through climate computers which control them remotely from one central
+location - this ensures optimal performance throughout every part of whatever space has been
+equipped with appropriate hardware based on its geographical conditions.</li>
+        </ul>
+      </div>
+      <div class="col-6">
+        <div class="row ml-4">
+        <h3 class="m-3 ml-4 mb-5" style="color:#2490d1;"> <b> AIR & ENERGY</b> </h3>
+        <p>Our own developed Air & Energy system, creates an optimal climate for crop growth and has the benefit of saving up to 70% on energy consumption. </p>
+        
+        <a href='/air-energy' class="btn btn btn-primary"  >More Information <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/>
+            </svg>
+        </a>
+
+        </div>
+
+      <img src="../assets/img/19.jpg" alt="" class="ml-5 mt-4 " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:65%; ">
+
+      </div>
+
+    </div>
+  </section>
+  </div>
+
+      </div>
+      <div class="carousel-item p-5">
+        <div class="card p-5 ">
         <h1 class="m-3 ml-4 mb-5" style="color:#2490d1;"> <b> COMPLETE PROJECTS </b> </h1>
     <section class="p-5 text-left">
 
@@ -22,6 +143,24 @@ here on out: We have years of experience implementing successful green buildings
 data tailored specifically towards each project's needs (and plenty more besides).</h4>
         </div>
     </section>
+        </div>
+      </div>
+    </div>
+    <a class="carousel-control-prev" style="color:black !important" href="#carouselExampleIndicators" role="button" data-slide="prev">
+      <div class="p-3 " style="background-color:#2490d1;">
+          <span class="carousel-control-prev-icon " aria-hidden=""></span>
+         <span class="sr-only">Previous</span>
+      </div>
+
+    </a>
+    <a class="carousel-control-next" style="color:black !important" href="#carouselExampleIndicators" role="button" data-slide="next">
+      <div class="p-3 " style="background-color:#2490d1;">
+      <span class="carousel-control-next-icon" style="color:black !important" aria-hidden=""></span>
+      <span class="sr-only" style="color:black !important" >Next</span>
+      </div>
+    </a>
+  </div>
+</div>
 
 
     <section >
