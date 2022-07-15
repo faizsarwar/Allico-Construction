@@ -4,6 +4,22 @@
         <!-- Product Disc -->
   <section style="background-color:white;">
 
+        <div class="mb-2">
+      <div class="row">
+
+        <div class="col-lg " style=" text-align: left; color: black;">
+          <div class="ml-5 mr-5 p-5 ">
+            <div class="pr-5 pt-5">      
+                      <h1 class="mr-5 text-center" style="color:#2490d1; font-weight:bolder;" > WELCOME TO ALLICO SYSTEMS CONSTRUCTION</h1>
+              <p class="mr-5  mt-4 text-center" style="font-weight:bold;">We realise world wide complete horticultural projects. The combination of our services and products ensures us, to offer you a complete package.
+              <br> Please contact us for more information. <br>
+We look forward to tell you more about our organisation, products, projects and possibilities.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div class=" mt-5 mb-4">
       <div class="row mt-4 mb-4 ml-2 mr-2">
          <div class="col no-overflow" >
@@ -34,21 +50,7 @@
       </div>
     </div>
     
-    <div class="mt-2">
-      <div class="row">
 
-        <div class="col-lg " style=" text-align: left; color: black;">
-          <div class="ml-5 mr-5 p-5 ">
-            <div class="pr-5 pt-5">      
-                      <h1 class="mr-5 text-center" style="color:#2490d1; font-weight:bolder;" > WELCOME TO ALLICO SYSTEMS CONSTRUCTION</h1>
-              <p class="mr-5  mt-4 text-center" style="font-weight:bold;">We realise world wide complete horticultural projects. The combination of our services and products ensures us, to offer you a complete package.
-              <br> Please contact us for more information. <br>
-We look forward to tell you more about our organisation, products, projects and possibilities.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
   </section>
 
     <section >

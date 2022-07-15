@@ -71,9 +71,9 @@
           <a class="dropdown-item  mb-4 ml-2 mr-2" href="/products/climate"><strong>Climate</strong></a>
         </div>
       </li> -->
-      <li class="nav-item mr-3 ml-3 mr-2 ">
+      <!-- <li class="nav-item mr-3 ml-3 mr-2 ">
         <a class="" style="color:#2490d1" href="/air-energy">Air & Energy</a>
-      </li>
+      </li> -->
       <!-- <li class="nav-item mr-3 ml-3 mr-2 ">
         <a class="" style="color:#2490d1" href="/how-it-works">Projects</a>
       </li> -->
@@ -83,14 +83,14 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
           <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/contact"> <strong>Contact</strong> </a>
-          <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/tax-exemption"> <strong>Tax Exemption</strong> </a>
-          <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/shipping-information"> <strong>Shipping Info</strong> </a>
+          <!-- <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/tax-exemption"> <strong>Tax Exemption</strong> </a> -->
+          <!-- <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/shipping-information"> <strong>Shipping Info</strong> </a> -->
           <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/shipping-information"> <strong>Construction tips</strong> </a>
           <a class="dropdown-item mb-4 ml-2 mr-2" href="/request-a-catalog"><strong>Request A Catalog</strong> </a>
         </div>
       </li>
       <li class="nav-item mr-3 ml-3 mr-2 ">
-        <a class="" style="color:#2490d1" href="/work-at">Work at</a>
+        <a class="" style="color:#2490d1" href="/work-at">We're Hiring</a>
       </li>
     </ul>
     

@@ -73,7 +73,7 @@
 
 
 
-    <section class="p-5">
+    <!-- <section class="p-5">
 
         <div class="pl-5 pr-5">
           <h1 style="color:#2490d1;" class="card text-center ml-5 mr-5">BIG DUTCHMAN</h1>
@@ -85,7 +85,7 @@
             </div>
         </div>
 
-    </section>
+    </section> -->
 
 
 
@@ -111,17 +111,14 @@
                 </ul>
             </div>
             <div class="col-6 text-left">
-                <div class="">
-                  <h1 style="color:#2490d1;" class="card text-center ml-2 mr-2">ALLICO CONSTRUCTION: INTERNATIONALLY ORIENTED</h1>
-                </div>
-                
-                <p class="pt-4">ALLICO Construction was founded in 2022 as the export department of Maurice Kassenbouw and focuses on customised, international projects. Both Maurice Kassenbouw and ALLICO Construction are located in the same premises and operated by the same team. With our export department, ALLICO Construction we can offer the highest level of quality and service for our international customers and anticipate on the growing demand from the horticultural sector worldwide.</p>
+                            <img src="../assets/img/newlogo.png" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:50%; ">      
+    
             </div>
         </div>
 
     </section>
 
-    <section class="p-5">
+    <!-- <section class="p-5">
 
         <div class="row pl-4 pr-4">
             <div class="col-6 text-left">
@@ -135,7 +132,7 @@
             </div>
         </div>
 
-    </section>
+    </section> -->
 
     <section >
         <div class="ml-3 " style="border-radius:35px; background-color:#2490d1" >
