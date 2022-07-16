@@ -23,7 +23,7 @@
       screens.</h4>
               </div>
 
-                  <h2 class="pl-4 text-center mt-5" style="color:#2490d1;">SCREENING INSTALLATIONS: A RANGE OF POSSIBILITIES</h2>
+                  <!-- <h2 class="pl-4 text-center mt-5" style="color:#2490d1;">SCREENING INSTALLATIONS: A RANGE OF POSSIBILITIES</h2>
               <div class="row pl-4 pr-4 mt-3">
 
                   <h4 class="pl-4 mt-3" >We offer a wide range of services to meet your specific needs.</h4>
@@ -45,7 +45,7 @@
                   </ul>
                   <h4 class="pl-4 pr-4 mt-3">An important component of the screening installation is the type of cloth. We can advise you in choosing the right cloth type for your crop, based on the (seasonal) climate conditions, type of cultivation and your specific situation.
       </h4>
-              </div>
+              </div> -->
           </section>  
       </div>
     </div>
@@ -64,7 +64,7 @@ stage from seedling emerge through harvest time</h5>
         </div>
     </section>
 
-  <section class="p-5 text-left">
+  <!-- <section class="p-5 text-left">
     <div class="row">  
       <div class="col-6">
         <h3 class="m-3 ml-4 mb-5" style="color:#2490d1;"> <b> Optimizing the Photosynthesis Process:</b> </h3>
@@ -116,7 +116,7 @@ equipped with appropriate hardware based on its geographical conditions.</li>
       </div>
 
     </div>
-  </section>
+  </section> -->
   </div>
 
       </div>
@@ -132,7 +132,7 @@ services to our clients in every facet belonging to a horticulture project from 
 through maintenance free recycling processes for your old materials back into new designs.</h4>
         </div>
 
-            <h2 class="pl-4 mt-5 text-center" style="color:#2490d1;"> <b>A PROJECT THAT FITS YOUR NEEDS </b></h2>
+            <!-- <h2 class="pl-4 mt-5 text-center" style="color:#2490d1;"> <b>A PROJECT THAT FITS YOUR NEEDS </b></h2>
         <div class="row pl-4 pr-4 mt-5">
 
             <h4 class="pl-4 pr-4 mt-3">We're always looking for ways to make your life easier and more comfortable. With our
@@ -141,7 +141,7 @@ is something about this process or equipment that does not seem clear to you in 
 don't worry because we offer customized solutions too - just let ALLICO Systems handle it from
 here on out: We have years of experience implementing successful green buildings with climate
 data tailored specifically towards each project's needs (and plenty more besides).</h4>
-        </div>
+        </div> -->
     </section>
         </div>
       </div>
