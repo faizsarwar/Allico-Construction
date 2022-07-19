@@ -133,7 +133,7 @@
 
             <div class="col no-overflow" >
               <a href="/products/screening">
-            <div class="card cards collections"  :style="{ backgroundImage: 'url(' + require('@/assets/img/21.jpg') + ')' }">
+            <div class="card cards collections"  :style="{ backgroundImage: 'url(' + require('@/assets/img/11.jpg') + ')' }">
                 <div class="card-body no-overflow mt-3 p-4 pt-5" >
                     <h2 class="card-title m-3 mt-5 ml-2" style="color: white;  font-weight:bolder;">Screening Installation</h2>
                     <p class="card-text m-4" style="color: white;"><strong style="color: white;">Increase The Effiency Of Your Green House</strong></p>

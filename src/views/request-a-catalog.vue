@@ -174,7 +174,7 @@ here!</p>
               </div>
             </div>
             <div class="col-lg " style=" text-align: center; color: black;">
-              <img src="../assets/img/7.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
+              <img src="../assets/img/8.jpg" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
             </div>
         </div>
         </div>
